@@ -1,0 +1,72 @@
+[Jul 22, 2024 08:09:30] com.quantum.utils.logging.Cleanup run
+ 	INFO:Open logs directory
+[Jul 22, 2024 08:09:30] com.quantum.utils.logging.Cleanup run
+ 	INFO:There are 2 log files.
+[Jul 22, 2024 08:09:30] com.quantum.utils.logging.Cleanup getCutOffDate
+ 	INFO:Retention days set to 30 days
+[Jul 22, 2024 08:09:30] com.quantum.utils.logging.Cleanup run
+ 	INFO:Number of log files deleted successfully: 0 file
+[Jul 22, 2024 08:46:30] com.quantum.utils.logging.Cleanup run
+ 	INFO:Open logs directory
+[Jul 22, 2024 08:46:30] com.quantum.utils.logging.Cleanup run
+ 	INFO:There are 2 log files.
+[Jul 22, 2024 08:46:30] com.quantum.utils.logging.Cleanup getCutOffDate
+ 	INFO:Retention days set to 30 days
+[Jul 22, 2024 08:46:30] com.quantum.utils.logging.Cleanup run
+ 	INFO:Number of log files deleted successfully: 0 file
+[Jul 22, 2024 08:47:41] com.quantum.utils.logging.Cleanup run
+ 	INFO:Open logs directory
+[Jul 22, 2024 08:47:41] com.quantum.utils.logging.Cleanup run
+ 	INFO:There are 2 log files.
+[Jul 22, 2024 08:47:41] com.quantum.utils.logging.Cleanup getCutOffDate
+ 	INFO:Retention days set to 30 days
+[Jul 22, 2024 08:47:41] com.quantum.utils.logging.Cleanup run
+ 	INFO:Number of log files deleted successfully: 0 file
+[Jul 22, 2024 08:48:13] com.quantum.utils.logging.Cleanup run
+ 	INFO:Open logs directory
+[Jul 22, 2024 08:48:13] com.quantum.utils.logging.Cleanup run
+ 	INFO:There are 2 log files.
+[Jul 22, 2024 08:48:13] com.quantum.utils.logging.Cleanup getCutOffDate
+ 	INFO:Retention days set to 30 days
+[Jul 22, 2024 08:48:13] com.quantum.utils.logging.Cleanup run
+ 	INFO:Number of log files deleted successfully: 0 file
+[Jul 22, 2024 09:30:38] com.quantum.utils.logging.Cleanup run
+ 	INFO:Open logs directory
+[Jul 22, 2024 09:30:38] com.quantum.utils.logging.Cleanup run
+ 	INFO:There are 2 log files.
+[Jul 22, 2024 09:30:38] com.quantum.utils.logging.Cleanup getCutOffDate
+ 	INFO:Retention days set to 30 days
+[Jul 22, 2024 09:30:38] com.quantum.utils.logging.Cleanup run
+ 	INFO:Number of log files deleted successfully: 0 file
+[Jul 22, 2024 09:33:04] com.quantum.utils.logging.Cleanup run
+ 	INFO:Open logs directory
+[Jul 22, 2024 09:33:05] com.quantum.utils.logging.Cleanup run
+ 	INFO:There are 2 log files.
+[Jul 22, 2024 09:33:05] com.quantum.utils.logging.Cleanup getCutOffDate
+ 	INFO:Retention days set to 30 days
+[Jul 22, 2024 09:33:05] com.quantum.utils.logging.Cleanup run
+ 	INFO:Number of log files deleted successfully: 0 file
+[Jul 22, 2024 09:33:25] com.quantum.utils.logging.Cleanup run
+ 	INFO:Open logs directory
+[Jul 22, 2024 09:33:25] com.quantum.utils.logging.Cleanup run
+ 	INFO:There are 2 log files.
+[Jul 22, 2024 09:33:25] com.quantum.utils.logging.Cleanup getCutOffDate
+ 	INFO:Retention days set to 30 days
+[Jul 22, 2024 09:33:25] com.quantum.utils.logging.Cleanup run
+ 	INFO:Number of log files deleted successfully: 0 file
+[Jul 22, 2024 11:02:55] com.quantum.core.graphics.Material create
+ 	FINE:Texture create successfully
+[Jul 22, 2024 11:03:46] com.quantum.core.graphics.Material create
+ 	FINE:Texture create successfully
+[Jul 22, 2024 11:05:11] com.quantum.core.graphics.Material create
+ 	FINE:Texture create successfully
+[Jul 22, 2024 11:36:33] com.quantum.core.graphics.Material create
+ 	FINE:Texture create successfully
+[Jul 22, 2024 11:36:47] com.quantum.core.graphics.Material create
+ 	FINE:Texture create successfully
+[Jul 22, 2024 11:37:18] com.quantum.core.graphics.Material create
+ 	FINE:Texture create successfully
+[Jul 22, 2024 20:59:04] com.quantum.core.graphics.Material create
+ 	FINE:Texture create successfully
+[Jul 22, 2024 20:59:37] com.quantum.core.graphics.Material create
+ 	FINE:Texture create successfully

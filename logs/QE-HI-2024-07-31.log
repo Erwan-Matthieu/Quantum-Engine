@@ -1,0 +1,303 @@
+[Jul 31, 2024 20:11:47] com.quantum.system.CPUMonitor run
+ 	INFO:System CPU Load: 24,49%
+[Jul 31, 2024 20:11:47] com.quantum.system.MemoryMonitor run
+ 	INFO:Total Memory: 124 MB
+		Free Memory: 114 MB
+		Max Memory: 1944 MB
+		Used Memory: 9 MB
+[Jul 31, 2024 20:11:48] com.quantum.system.CPUMonitor log
+ 	INFO:CPU: Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz
+[Jul 31, 2024 20:11:48] com.quantum.system.CPUMonitor run
+ 	INFO:System CPU Load: 24,49%
+[Jul 31, 2024 20:11:48] com.quantum.system.MemoryMonitor run
+ 	INFO:Total Memory: 124 MB
+		Free Memory: 114 MB
+		Max Memory: 1944 MB
+		Used Memory: 9 MB
+[Jul 31, 2024 20:11:49] com.quantum.system.CPUMonitor run
+ 	INFO:System CPU Load: 24,49%
+[Jul 31, 2024 20:11:49] com.quantum.system.MemoryMonitor run
+ 	INFO:Total Memory: 124 MB
+		Free Memory: 82 MB
+		Max Memory: 1944 MB
+		Used Memory: 41 MB
+[Jul 31, 2024 20:11:50] com.quantum.system.CPUMonitor run
+ 	INFO:System CPU Load: 23,53%
+[Jul 31, 2024 20:11:50] com.quantum.system.MemoryMonitor run
+ 	INFO:Total Memory: 124 MB
+		Free Memory: 82 MB
+		Max Memory: 1944 MB
+		Used Memory: 41 MB
+[Jul 31, 2024 20:11:51] com.quantum.system.CPUMonitor run
+ 	INFO:System CPU Load: 23,53%
+[Jul 31, 2024 20:11:51] com.quantum.system.MemoryMonitor run
+ 	INFO:Total Memory: 124 MB
+		Free Memory: 82 MB
+		Max Memory: 1944 MB
+		Used Memory: 41 MB
+[Jul 31, 2024 20:11:52] com.quantum.system.CPUMonitor run
+ 	INFO:System CPU Load: 23,53%
+[Jul 31, 2024 20:11:52] com.quantum.system.MemoryMonitor run
+ 	INFO:Total Memory: 124 MB
+		Free Memory: 82 MB
+		Max Memory: 1944 MB
+		Used Memory: 41 MB
+[Jul 31, 2024 20:11:53] com.quantum.system.CPUMonitor run
+ 	INFO:System CPU Load: 23,53%
+[Jul 31, 2024 20:11:53] com.quantum.system.MemoryMonitor run
+ 	INFO:Total Memory: 124 MB
+		Free Memory: 82 MB
+		Max Memory: 1944 MB
+		Used Memory: 41 MB
+[Jul 31, 2024 20:11:54] com.quantum.system.CPUMonitor run
+ 	INFO:System CPU Load: 23,53%
+[Jul 31, 2024 20:11:54] com.quantum.system.MemoryMonitor run
+ 	INFO:Total Memory: 124 MB
+		Free Memory: 82 MB
+		Max Memory: 1944 MB
+		Used Memory: 41 MB
+[Jul 31, 2024 20:11:55] com.quantum.system.CPUMonitor run
+ 	INFO:System CPU Load: 23,65%
+[Jul 31, 2024 20:11:55] com.quantum.system.MemoryMonitor run
+ 	INFO:Total Memory: 124 MB
+		Free Memory: 82 MB
+		Max Memory: 1944 MB
+		Used Memory: 41 MB
+[Jul 31, 2024 20:11:56] com.quantum.system.CPUMonitor run
+ 	INFO:System CPU Load: 23,65%
+[Jul 31, 2024 20:11:56] com.quantum.system.MemoryMonitor run
+ 	INFO:Total Memory: 124 MB
+		Free Memory: 81 MB
+		Max Memory: 1944 MB
+		Used Memory: 42 MB
+[Jul 31, 2024 20:11:57] com.quantum.system.CPUMonitor run
+ 	INFO:System CPU Load: 23,65%
+[Jul 31, 2024 20:11:57] com.quantum.system.MemoryMonitor run
+ 	INFO:Total Memory: 124 MB
+		Free Memory: 81 MB
+		Max Memory: 1944 MB
+		Used Memory: 42 MB
+[Jul 31, 2024 20:11:58] com.quantum.system.CPUMonitor run
+ 	INFO:System CPU Load: 23,65%
+[Jul 31, 2024 20:11:58] com.quantum.system.MemoryMonitor run
+ 	INFO:Total Memory: 124 MB
+		Free Memory: 81 MB
+		Max Memory: 1944 MB
+		Used Memory: 42 MB
+[Jul 31, 2024 20:11:59] com.quantum.system.CPUMonitor run
+ 	INFO:System CPU Load: 23,65%
+[Jul 31, 2024 20:11:59] com.quantum.system.MemoryMonitor run
+ 	INFO:Total Memory: 124 MB
+		Free Memory: 81 MB
+		Max Memory: 1944 MB
+		Used Memory: 42 MB
+[Jul 31, 2024 20:12:00] com.quantum.system.CPUMonitor run
+ 	INFO:System CPU Load: 22,75%
+[Jul 31, 2024 20:12:00] com.quantum.system.MemoryMonitor run
+ 	INFO:Total Memory: 124 MB
+		Free Memory: 81 MB
+		Max Memory: 1944 MB
+		Used Memory: 42 MB
+[Jul 31, 2024 20:12:01] com.quantum.system.CPUMonitor run
+ 	INFO:System CPU Load: 22,75%
+[Jul 31, 2024 20:12:01] com.quantum.system.MemoryMonitor run
+ 	INFO:Total Memory: 124 MB
+		Free Memory: 81 MB
+		Max Memory: 1944 MB
+		Used Memory: 42 MB
+[Jul 31, 2024 20:12:02] com.quantum.system.CPUMonitor run
+ 	INFO:System CPU Load: 22,75%
+[Jul 31, 2024 20:12:02] com.quantum.system.MemoryMonitor run
+ 	INFO:Total Memory: 124 MB
+		Free Memory: 81 MB
+		Max Memory: 1944 MB
+		Used Memory: 42 MB
+[Jul 31, 2024 20:12:03] com.quantum.system.CPUMonitor run
+ 	INFO:System CPU Load: 22,75%
+[Jul 31, 2024 20:12:03] com.quantum.system.MemoryMonitor run
+ 	INFO:Total Memory: 124 MB
+		Free Memory: 81 MB
+		Max Memory: 1944 MB
+		Used Memory: 42 MB
+[Jul 31, 2024 20:12:04] com.quantum.system.CPUMonitor run
+ 	INFO:System CPU Load: 22,75%
+[Jul 31, 2024 20:12:04] com.quantum.system.MemoryMonitor run
+ 	INFO:Total Memory: 124 MB
+		Free Memory: 81 MB
+		Max Memory: 1944 MB
+		Used Memory: 42 MB
+[Jul 31, 2024 20:12:05] com.quantum.system.CPUMonitor run
+ 	INFO:System CPU Load: 21,93%
+[Jul 31, 2024 20:12:05] com.quantum.system.MemoryMonitor run
+ 	INFO:Total Memory: 124 MB
+		Free Memory: 81 MB
+		Max Memory: 1944 MB
+		Used Memory: 42 MB
+[Jul 31, 2024 20:12:06] com.quantum.system.CPUMonitor run
+ 	INFO:System CPU Load: 21,93%
+[Jul 31, 2024 20:12:06] com.quantum.system.MemoryMonitor run
+ 	INFO:Total Memory: 124 MB
+		Free Memory: 81 MB
+		Max Memory: 1944 MB
+		Used Memory: 42 MB
+[Jul 31, 2024 20:12:07] com.quantum.system.CPUMonitor run
+ 	INFO:System CPU Load: 21,93%
+[Jul 31, 2024 20:12:07] com.quantum.system.MemoryMonitor run
+ 	INFO:Total Memory: 124 MB
+		Free Memory: 81 MB
+		Max Memory: 1944 MB
+		Used Memory: 42 MB
+[Jul 31, 2024 20:12:08] com.quantum.system.CPUMonitor run
+ 	INFO:System CPU Load: 21,93%
+[Jul 31, 2024 20:12:08] com.quantum.system.MemoryMonitor run
+ 	INFO:Total Memory: 124 MB
+		Free Memory: 81 MB
+		Max Memory: 1944 MB
+		Used Memory: 42 MB
+[Jul 31, 2024 20:12:09] com.quantum.system.CPUMonitor run
+ 	INFO:System CPU Load: 21,93%
+[Jul 31, 2024 20:12:09] com.quantum.system.MemoryMonitor run
+ 	INFO:Total Memory: 124 MB
+		Free Memory: 81 MB
+		Max Memory: 1944 MB
+		Used Memory: 42 MB
+[Jul 31, 2024 20:12:10] com.quantum.system.CPUMonitor run
+ 	INFO:System CPU Load: 26,18%
+[Jul 31, 2024 20:12:10] com.quantum.system.MemoryMonitor run
+ 	INFO:Total Memory: 124 MB
+		Free Memory: 81 MB
+		Max Memory: 1944 MB
+		Used Memory: 42 MB
+[Jul 31, 2024 20:12:11] com.quantum.system.CPUMonitor run
+ 	INFO:System CPU Load: 26,18%
+[Jul 31, 2024 20:12:11] com.quantum.system.MemoryMonitor run
+ 	INFO:Total Memory: 124 MB
+		Free Memory: 81 MB
+		Max Memory: 1944 MB
+		Used Memory: 42 MB
+[Jul 31, 2024 20:12:12] com.quantum.system.CPUMonitor run
+ 	INFO:System CPU Load: 26,18%
+[Jul 31, 2024 20:12:12] com.quantum.system.MemoryMonitor run
+ 	INFO:Total Memory: 124 MB
+		Free Memory: 81 MB
+		Max Memory: 1944 MB
+		Used Memory: 42 MB
+[Jul 31, 2024 20:12:13] com.quantum.system.CPUMonitor run
+ 	INFO:System CPU Load: 26,18%
+[Jul 31, 2024 20:12:13] com.quantum.system.MemoryMonitor run
+ 	INFO:Total Memory: 124 MB
+		Free Memory: 81 MB
+		Max Memory: 1944 MB
+		Used Memory: 42 MB
+[Jul 31, 2024 20:12:14] com.quantum.system.CPUMonitor run
+ 	INFO:System CPU Load: 26,18%
+[Jul 31, 2024 20:12:14] com.quantum.system.MemoryMonitor run
+ 	INFO:Total Memory: 124 MB
+		Free Memory: 81 MB
+		Max Memory: 1944 MB
+		Used Memory: 42 MB
+[Jul 31, 2024 20:12:15] com.quantum.system.CPUMonitor run
+ 	INFO:System CPU Load: 26,09%
+[Jul 31, 2024 20:12:15] com.quantum.system.MemoryMonitor run
+ 	INFO:Total Memory: 124 MB
+		Free Memory: 81 MB
+		Max Memory: 1944 MB
+		Used Memory: 42 MB
+[Jul 31, 2024 20:12:16] com.quantum.system.CPUMonitor run
+ 	INFO:System CPU Load: 26,09%
+[Jul 31, 2024 20:12:16] com.quantum.system.MemoryMonitor run
+ 	INFO:Total Memory: 124 MB
+		Free Memory: 80 MB
+		Max Memory: 1944 MB
+		Used Memory: 43 MB
+[Jul 31, 2024 20:12:17] com.quantum.system.CPUMonitor run
+ 	INFO:System CPU Load: 26,09%
+[Jul 31, 2024 20:12:17] com.quantum.system.MemoryMonitor run
+ 	INFO:Total Memory: 124 MB
+		Free Memory: 80 MB
+		Max Memory: 1944 MB
+		Used Memory: 43 MB
+[Jul 31, 2024 20:12:18] com.quantum.system.CPUMonitor run
+ 	INFO:System CPU Load: 26,09%
+[Jul 31, 2024 20:12:18] com.quantum.system.MemoryMonitor run
+ 	INFO:Total Memory: 124 MB
+		Free Memory: 80 MB
+		Max Memory: 1944 MB
+		Used Memory: 43 MB
+[Jul 31, 2024 20:12:19] com.quantum.system.CPUMonitor run
+ 	INFO:System CPU Load: 26,09%
+[Jul 31, 2024 20:12:19] com.quantum.system.MemoryMonitor run
+ 	INFO:Total Memory: 124 MB
+		Free Memory: 80 MB
+		Max Memory: 1944 MB
+		Used Memory: 43 MB
+[Jul 31, 2024 20:12:20] com.quantum.system.CPUMonitor run
+ 	INFO:System CPU Load: 24,99%
+[Jul 31, 2024 20:12:20] com.quantum.system.MemoryMonitor run
+ 	INFO:Total Memory: 124 MB
+		Free Memory: 80 MB
+		Max Memory: 1944 MB
+		Used Memory: 43 MB
+[Jul 31, 2024 20:12:21] com.quantum.system.MemoryMonitor run
+ 	INFO:Total Memory: 124 MB
+		Free Memory: 80 MB
+		Max Memory: 1944 MB
+		Used Memory: 43 MB
+[Jul 31, 2024 20:12:21] com.quantum.system.CPUMonitor run
+ 	INFO:System CPU Load: 24,99%
+[Jul 31, 2024 20:12:22] com.quantum.system.MemoryMonitor run
+ 	INFO:Total Memory: 124 MB
+		Free Memory: 80 MB
+		Max Memory: 1944 MB
+		Used Memory: 43 MB
+[Jul 31, 2024 20:12:22] com.quantum.system.CPUMonitor run
+ 	INFO:System CPU Load: 24,99%
+[Jul 31, 2024 20:12:23] com.quantum.system.MemoryMonitor run
+ 	INFO:Total Memory: 124 MB
+		Free Memory: 80 MB
+		Max Memory: 1944 MB
+		Used Memory: 43 MB
+[Jul 31, 2024 20:12:23] com.quantum.system.CPUMonitor run
+ 	INFO:System CPU Load: 24,99%
+[Jul 31, 2024 20:12:24] com.quantum.system.CPUMonitor run
+ 	INFO:System CPU Load: 24,99%
+[Jul 31, 2024 20:12:24] com.quantum.system.MemoryMonitor run
+ 	INFO:Total Memory: 124 MB
+		Free Memory: 80 MB
+		Max Memory: 1944 MB
+		Used Memory: 43 MB
+[Jul 31, 2024 20:12:25] com.quantum.system.CPUMonitor run
+ 	INFO:System CPU Load: 24,99%
+[Jul 31, 2024 20:12:25] com.quantum.system.MemoryMonitor run
+ 	INFO:Total Memory: 124 MB
+		Free Memory: 80 MB
+		Max Memory: 1944 MB
+		Used Memory: 43 MB
+[Jul 31, 2024 20:12:26] com.quantum.system.CPUMonitor run
+ 	INFO:System CPU Load: 22,99%
+[Jul 31, 2024 20:12:26] com.quantum.system.MemoryMonitor run
+ 	INFO:Total Memory: 124 MB
+		Free Memory: 80 MB
+		Max Memory: 1944 MB
+		Used Memory: 43 MB
+[Jul 31, 2024 20:12:27] com.quantum.system.CPUMonitor run
+ 	INFO:System CPU Load: 22,99%
+[Jul 31, 2024 20:12:27] com.quantum.system.MemoryMonitor run
+ 	INFO:Total Memory: 124 MB
+		Free Memory: 80 MB
+		Max Memory: 1944 MB
+		Used Memory: 43 MB
+[Jul 31, 2024 20:12:28] com.quantum.system.CPUMonitor run
+ 	INFO:System CPU Load: 22,99%
+[Jul 31, 2024 20:12:28] com.quantum.system.MemoryMonitor run
+ 	INFO:Total Memory: 124 MB
+		Free Memory: 80 MB
+		Max Memory: 1944 MB
+		Used Memory: 43 MB
+[Jul 31, 2024 20:12:29] com.quantum.system.CPUMonitor run
+ 	INFO:System CPU Load: 22,99%
+[Jul 31, 2024 20:12:29] com.quantum.system.MemoryMonitor run
+ 	INFO:Total Memory: 124 MB
+		Free Memory: 80 MB
+		Max Memory: 1944 MB
+		Used Memory: 43 MB

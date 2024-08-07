@@ -1,0 +1,862 @@
+[Jul 30, 2024 07:48:22] com.quantum.utils.logging.Cleanup run
+ 	INFO:Open logs directory
+[Jul 30, 2024 07:48:22] com.quantum.utils.logging.Cleanup run
+ 	INFO:There are 9 log files.
+[Jul 30, 2024 07:48:22] com.quantum.utils.logging.Cleanup getCutOffDate
+ 	INFO:Retention days set to 30 days
+[Jul 30, 2024 07:48:22] com.quantum.utils.logging.Cleanup run
+ 	INFO:Number of log files deleted successfully: 0 file
+[Jul 30, 2024 07:48:23] com.quantum.core.io.Window create
+ 	INFO:OpenGL capabilities created successfully.
+[Jul 30, 2024 07:48:23] com.quantum.system.CPUInfo log
+ 	INFO:CPU: Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz
+[Jul 30, 2024 07:48:23] com.quantum.system.GPUInfo log
+ 	INFO:Vendor: Intel
+[Jul 30, 2024 07:48:23] com.quantum.system.GPUInfo log
+ 	INFO:RENDERER: Mesa Intel(R) UHD Graphics (CML GT2)
+[Jul 30, 2024 07:50:57] com.quantum.utils.logging.Cleanup run
+ 	INFO:Open logs directory
+[Jul 30, 2024 07:50:57] com.quantum.utils.logging.Cleanup run
+ 	INFO:There are 9 log files.
+[Jul 30, 2024 07:50:57] com.quantum.utils.logging.Cleanup getCutOffDate
+ 	INFO:Retention days set to 30 days
+[Jul 30, 2024 07:50:57] com.quantum.utils.logging.Cleanup run
+ 	INFO:Number of log files deleted successfully: 0 file
+[Jul 30, 2024 07:50:58] com.quantum.core.io.Window create
+ 	INFO:OpenGL capabilities created successfully.
+[Jul 30, 2024 07:50:58] com.quantum.system.CPUInfo log
+ 	INFO:CPU: Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz
+[Jul 30, 2024 07:50:58] com.quantum.system.GPUInfo log
+ 	INFO:Vendor: Intel
+[Jul 30, 2024 07:50:58] com.quantum.system.GPUInfo log
+ 	INFO:RENDERER: Mesa Intel(R) UHD Graphics (CML GT2)
+[Jul 30, 2024 07:51:45] com.quantum.utils.logging.Cleanup run
+ 	INFO:Open logs directory
+[Jul 30, 2024 07:51:46] com.quantum.utils.logging.Cleanup run
+ 	INFO:There are 9 log files.
+[Jul 30, 2024 07:51:46] com.quantum.utils.logging.Cleanup getCutOffDate
+ 	INFO:Retention days set to 30 days
+[Jul 30, 2024 07:51:46] com.quantum.utils.logging.Cleanup run
+ 	INFO:Number of log files deleted successfully: 0 file
+[Jul 30, 2024 07:51:46] com.quantum.core.io.Window create
+ 	INFO:OpenGL capabilities created successfully.
+[Jul 30, 2024 07:51:46] com.quantum.system.CPUInfo log
+ 	INFO:CPU: Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz
+[Jul 30, 2024 07:51:46] com.quantum.system.GPUInfo log
+ 	INFO:Vendor: Intel
+[Jul 30, 2024 07:51:46] com.quantum.system.GPUInfo log
+ 	INFO:RENDERER: Mesa Intel(R) UHD Graphics (CML GT2)
+[Jul 30, 2024 07:53:07] com.quantum.utils.logging.Cleanup run
+ 	INFO:Open logs directory
+[Jul 30, 2024 07:53:07] com.quantum.utils.logging.Cleanup run
+ 	INFO:There are 9 log files.
+[Jul 30, 2024 07:53:07] com.quantum.utils.logging.Cleanup getCutOffDate
+ 	INFO:Retention days set to 30 days
+[Jul 30, 2024 07:53:07] com.quantum.utils.logging.Cleanup run
+ 	INFO:Number of log files deleted successfully: 0 file
+[Jul 30, 2024 07:53:08] com.quantum.core.io.Window create
+ 	INFO:OpenGL capabilities created successfully.
+[Jul 30, 2024 07:53:08] com.quantum.system.CPUInfo log
+ 	INFO:CPU: Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz
+[Jul 30, 2024 07:53:08] com.quantum.system.GPUInfo log
+ 	INFO:Vendor: Intel
+[Jul 30, 2024 07:53:08] com.quantum.system.GPUInfo log
+ 	INFO:RENDERER: Mesa Intel(R) UHD Graphics (CML GT2)
+[Jul 30, 2024 07:53:46] com.quantum.utils.logging.Cleanup run
+ 	INFO:Open logs directory
+[Jul 30, 2024 07:53:46] com.quantum.utils.logging.Cleanup run
+ 	INFO:There are 9 log files.
+[Jul 30, 2024 07:53:46] com.quantum.utils.logging.Cleanup getCutOffDate
+ 	INFO:Retention days set to 30 days
+[Jul 30, 2024 07:53:46] com.quantum.utils.logging.Cleanup run
+ 	INFO:Number of log files deleted successfully: 0 file
+[Jul 30, 2024 07:53:47] com.quantum.core.io.Window create
+ 	INFO:OpenGL capabilities created successfully.
+[Jul 30, 2024 07:53:47] com.quantum.system.CPUInfo log
+ 	INFO:CPU: Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz
+[Jul 30, 2024 07:53:47] com.quantum.system.GPUInfo log
+ 	INFO:Vendor: Intel
+[Jul 30, 2024 07:53:47] com.quantum.system.GPUInfo log
+ 	INFO:RENDERER: Mesa Intel(R) UHD Graphics (CML GT2)
+[Jul 30, 2024 07:54:40] com.quantum.utils.logging.Cleanup run
+ 	INFO:Open logs directory
+[Jul 30, 2024 07:54:40] com.quantum.utils.logging.Cleanup run
+ 	INFO:There are 9 log files.
+[Jul 30, 2024 07:54:40] com.quantum.utils.logging.Cleanup getCutOffDate
+ 	INFO:Retention days set to 30 days
+[Jul 30, 2024 07:54:40] com.quantum.utils.logging.Cleanup run
+ 	INFO:Number of log files deleted successfully: 0 file
+[Jul 30, 2024 07:54:40] com.quantum.core.io.Window create
+ 	INFO:OpenGL capabilities created successfully.
+[Jul 30, 2024 07:54:40] com.quantum.system.CPUInfo log
+ 	INFO:CPU: Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz
+[Jul 30, 2024 07:54:40] com.quantum.system.GPUInfo log
+ 	INFO:Vendor: Intel
+[Jul 30, 2024 07:54:40] com.quantum.system.GPUInfo log
+ 	INFO:RENDERER: Mesa Intel(R) UHD Graphics (CML GT2)
+[Jul 30, 2024 07:55:46] com.quantum.utils.logging.Cleanup run
+ 	INFO:Open logs directory
+[Jul 30, 2024 07:55:46] com.quantum.utils.logging.Cleanup run
+ 	INFO:There are 9 log files.
+[Jul 30, 2024 07:55:46] com.quantum.utils.logging.Cleanup getCutOffDate
+ 	INFO:Retention days set to 30 days
+[Jul 30, 2024 07:55:46] com.quantum.utils.logging.Cleanup run
+ 	INFO:Number of log files deleted successfully: 0 file
+[Jul 30, 2024 07:55:47] com.quantum.core.io.Window create
+ 	INFO:OpenGL capabilities created successfully.
+[Jul 30, 2024 07:55:47] com.quantum.system.CPUInfo log
+ 	INFO:CPU: Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz
+[Jul 30, 2024 07:55:47] com.quantum.system.GPUInfo log
+ 	INFO:Vendor: Intel
+[Jul 30, 2024 07:55:47] com.quantum.system.GPUInfo log
+ 	INFO:RENDERER: Mesa Intel(R) UHD Graphics (CML GT2)
+[Jul 30, 2024 07:56:05] com.quantum.utils.logging.Cleanup run
+ 	INFO:Open logs directory
+[Jul 30, 2024 07:56:05] com.quantum.utils.logging.Cleanup run
+ 	INFO:There are 9 log files.
+[Jul 30, 2024 07:56:05] com.quantum.utils.logging.Cleanup getCutOffDate
+ 	INFO:Retention days set to 30 days
+[Jul 30, 2024 07:56:05] com.quantum.utils.logging.Cleanup run
+ 	INFO:Number of log files deleted successfully: 0 file
+[Jul 30, 2024 07:56:06] com.quantum.core.io.Window create
+ 	INFO:OpenGL capabilities created successfully.
+[Jul 30, 2024 07:56:06] com.quantum.system.CPUInfo log
+ 	INFO:CPU: Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz
+[Jul 30, 2024 07:56:06] com.quantum.system.GPUInfo log
+ 	INFO:Vendor: Intel
+[Jul 30, 2024 07:56:06] com.quantum.system.GPUInfo log
+ 	INFO:RENDERER: Mesa Intel(R) UHD Graphics (CML GT2)
+[Jul 30, 2024 07:57:06] com.quantum.utils.logging.Cleanup run
+ 	INFO:Open logs directory
+[Jul 30, 2024 07:57:06] com.quantum.utils.logging.Cleanup run
+ 	INFO:There are 9 log files.
+[Jul 30, 2024 07:57:06] com.quantum.utils.logging.Cleanup getCutOffDate
+ 	INFO:Retention days set to 30 days
+[Jul 30, 2024 07:57:06] com.quantum.utils.logging.Cleanup run
+ 	INFO:Number of log files deleted successfully: 0 file
+[Jul 30, 2024 07:57:06] com.quantum.core.io.Window create
+ 	INFO:OpenGL capabilities created successfully.
+[Jul 30, 2024 07:57:06] com.quantum.system.CPUInfo log
+ 	INFO:CPU: Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz
+[Jul 30, 2024 07:57:06] com.quantum.system.GPUInfo log
+ 	INFO:Vendor: Intel
+[Jul 30, 2024 07:57:06] com.quantum.system.GPUInfo log
+ 	INFO:RENDERER: Mesa Intel(R) UHD Graphics (CML GT2)
+[Jul 30, 2024 07:57:46] com.quantum.utils.logging.Cleanup run
+ 	INFO:Open logs directory
+[Jul 30, 2024 07:57:46] com.quantum.utils.logging.Cleanup run
+ 	INFO:There are 9 log files.
+[Jul 30, 2024 07:57:46] com.quantum.utils.logging.Cleanup getCutOffDate
+ 	INFO:Retention days set to 30 days
+[Jul 30, 2024 07:57:46] com.quantum.utils.logging.Cleanup run
+ 	INFO:Number of log files deleted successfully: 0 file
+[Jul 30, 2024 07:57:47] com.quantum.core.io.Window create
+ 	INFO:OpenGL capabilities created successfully.
+[Jul 30, 2024 07:57:47] com.quantum.system.CPUInfo log
+ 	INFO:CPU: Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz
+[Jul 30, 2024 07:57:47] com.quantum.system.GPUInfo log
+ 	INFO:Vendor: Intel
+[Jul 30, 2024 07:57:47] com.quantum.system.GPUInfo log
+ 	INFO:RENDERER: Mesa Intel(R) UHD Graphics (CML GT2)
+[Jul 30, 2024 07:58:32] com.quantum.utils.logging.Cleanup run
+ 	INFO:Open logs directory
+[Jul 30, 2024 07:58:32] com.quantum.utils.logging.Cleanup run
+ 	INFO:There are 9 log files.
+[Jul 30, 2024 07:58:32] com.quantum.utils.logging.Cleanup getCutOffDate
+ 	INFO:Retention days set to 30 days
+[Jul 30, 2024 07:58:32] com.quantum.utils.logging.Cleanup run
+ 	INFO:Number of log files deleted successfully: 0 file
+[Jul 30, 2024 07:58:32] com.quantum.core.io.Window create
+ 	INFO:OpenGL capabilities created successfully.
+[Jul 30, 2024 07:58:32] com.quantum.system.CPUInfo log
+ 	INFO:CPU: Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz
+[Jul 30, 2024 07:58:32] com.quantum.system.GPUInfo log
+ 	INFO:Vendor: Intel
+[Jul 30, 2024 07:58:32] com.quantum.system.GPUInfo log
+ 	INFO:RENDERER: Mesa Intel(R) UHD Graphics (CML GT2)
+[Jul 30, 2024 07:59:05] com.quantum.utils.logging.Cleanup run
+ 	INFO:Open logs directory
+[Jul 30, 2024 07:59:05] com.quantum.utils.logging.Cleanup run
+ 	INFO:There are 9 log files.
+[Jul 30, 2024 07:59:05] com.quantum.utils.logging.Cleanup getCutOffDate
+ 	INFO:Retention days set to 30 days
+[Jul 30, 2024 07:59:05] com.quantum.utils.logging.Cleanup run
+ 	INFO:Number of log files deleted successfully: 0 file
+[Jul 30, 2024 07:59:05] com.quantum.core.io.Window create
+ 	INFO:OpenGL capabilities created successfully.
+[Jul 30, 2024 07:59:05] com.quantum.system.CPUInfo log
+ 	INFO:CPU: Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz
+[Jul 30, 2024 07:59:05] com.quantum.system.GPUInfo log
+ 	INFO:Vendor: Intel
+[Jul 30, 2024 07:59:05] com.quantum.system.GPUInfo log
+ 	INFO:RENDERER: Mesa Intel(R) UHD Graphics (CML GT2)
+[Jul 30, 2024 07:59:19] com.quantum.utils.logging.Cleanup run
+ 	INFO:Open logs directory
+[Jul 30, 2024 07:59:19] com.quantum.utils.logging.Cleanup run
+ 	INFO:There are 9 log files.
+[Jul 30, 2024 07:59:19] com.quantum.utils.logging.Cleanup getCutOffDate
+ 	INFO:Retention days set to 30 days
+[Jul 30, 2024 07:59:19] com.quantum.utils.logging.Cleanup run
+ 	INFO:Number of log files deleted successfully: 0 file
+[Jul 30, 2024 07:59:20] com.quantum.core.io.Window create
+ 	INFO:OpenGL capabilities created successfully.
+[Jul 30, 2024 07:59:20] com.quantum.system.CPUInfo log
+ 	INFO:CPU: Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz
+[Jul 30, 2024 07:59:20] com.quantum.system.GPUInfo log
+ 	INFO:Vendor: Intel
+[Jul 30, 2024 07:59:20] com.quantum.system.GPUInfo log
+ 	INFO:RENDERER: Mesa Intel(R) UHD Graphics (CML GT2)
+[Jul 30, 2024 07:59:36] com.quantum.utils.logging.Cleanup run
+ 	INFO:Open logs directory
+[Jul 30, 2024 07:59:36] com.quantum.utils.logging.Cleanup run
+ 	INFO:There are 9 log files.
+[Jul 30, 2024 07:59:36] com.quantum.utils.logging.Cleanup getCutOffDate
+ 	INFO:Retention days set to 30 days
+[Jul 30, 2024 07:59:36] com.quantum.utils.logging.Cleanup run
+ 	INFO:Number of log files deleted successfully: 0 file
+[Jul 30, 2024 07:59:36] com.quantum.core.io.Window create
+ 	INFO:OpenGL capabilities created successfully.
+[Jul 30, 2024 07:59:36] com.quantum.system.CPUInfo log
+ 	INFO:CPU: Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz
+[Jul 30, 2024 07:59:36] com.quantum.system.GPUInfo log
+ 	INFO:Vendor: Intel
+[Jul 30, 2024 07:59:36] com.quantum.system.GPUInfo log
+ 	INFO:RENDERER: Mesa Intel(R) UHD Graphics (CML GT2)
+[Jul 30, 2024 08:00:01] com.quantum.utils.logging.Cleanup run
+ 	INFO:Open logs directory
+[Jul 30, 2024 08:00:01] com.quantum.utils.logging.Cleanup run
+ 	INFO:There are 9 log files.
+[Jul 30, 2024 08:00:01] com.quantum.utils.logging.Cleanup getCutOffDate
+ 	INFO:Retention days set to 30 days
+[Jul 30, 2024 08:00:01] com.quantum.utils.logging.Cleanup run
+ 	INFO:Number of log files deleted successfully: 0 file
+[Jul 30, 2024 08:00:01] com.quantum.core.io.Window create
+ 	INFO:OpenGL capabilities created successfully.
+[Jul 30, 2024 08:00:01] com.quantum.system.CPUInfo log
+ 	INFO:CPU: Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz
+[Jul 30, 2024 08:00:01] com.quantum.system.GPUInfo log
+ 	INFO:Vendor: Intel
+[Jul 30, 2024 08:00:01] com.quantum.system.GPUInfo log
+ 	INFO:RENDERER: Mesa Intel(R) UHD Graphics (CML GT2)
+[Jul 30, 2024 08:02:13] com.quantum.utils.logging.Cleanup run
+ 	INFO:Open logs directory
+[Jul 30, 2024 08:02:14] com.quantum.utils.logging.Cleanup run
+ 	INFO:There are 9 log files.
+[Jul 30, 2024 08:02:14] com.quantum.utils.logging.Cleanup getCutOffDate
+ 	INFO:Retention days set to 30 days
+[Jul 30, 2024 08:02:14] com.quantum.utils.logging.Cleanup run
+ 	INFO:Number of log files deleted successfully: 0 file
+[Jul 30, 2024 08:02:14] com.quantum.core.io.Window create
+ 	INFO:OpenGL capabilities created successfully.
+[Jul 30, 2024 08:02:14] com.quantum.system.CPUInfo log
+ 	INFO:CPU: Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz
+[Jul 30, 2024 08:02:14] com.quantum.system.GPUInfo log
+ 	INFO:Vendor: Intel
+[Jul 30, 2024 08:02:14] com.quantum.system.GPUInfo log
+ 	INFO:RENDERER: Mesa Intel(R) UHD Graphics (CML GT2)
+[Jul 30, 2024 08:04:37] com.quantum.utils.logging.Cleanup run
+ 	INFO:Open logs directory
+[Jul 30, 2024 08:04:37] com.quantum.utils.logging.Cleanup run
+ 	INFO:There are 9 log files.
+[Jul 30, 2024 08:04:37] com.quantum.utils.logging.Cleanup getCutOffDate
+ 	INFO:Retention days set to 30 days
+[Jul 30, 2024 08:04:37] com.quantum.utils.logging.Cleanup run
+ 	INFO:Number of log files deleted successfully: 0 file
+[Jul 30, 2024 08:04:37] com.quantum.core.io.Window create
+ 	INFO:OpenGL capabilities created successfully.
+[Jul 30, 2024 08:04:37] com.quantum.system.CPUInfo log
+ 	INFO:CPU: Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz
+[Jul 30, 2024 08:04:37] com.quantum.system.GPUInfo log
+ 	INFO:Vendor: Intel
+[Jul 30, 2024 08:04:37] com.quantum.system.GPUInfo log
+ 	INFO:RENDERER: Mesa Intel(R) UHD Graphics (CML GT2)
+[Jul 30, 2024 08:04:49] com.quantum.utils.logging.Cleanup run
+ 	INFO:Open logs directory
+[Jul 30, 2024 08:04:49] com.quantum.utils.logging.Cleanup run
+ 	INFO:There are 9 log files.
+[Jul 30, 2024 08:04:49] com.quantum.utils.logging.Cleanup getCutOffDate
+ 	INFO:Retention days set to 30 days
+[Jul 30, 2024 08:04:49] com.quantum.utils.logging.Cleanup run
+ 	INFO:Number of log files deleted successfully: 0 file
+[Jul 30, 2024 08:04:49] com.quantum.core.io.Window create
+ 	INFO:OpenGL capabilities created successfully.
+[Jul 30, 2024 08:04:49] com.quantum.system.CPUInfo log
+ 	INFO:CPU: Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz
+[Jul 30, 2024 08:04:49] com.quantum.system.GPUInfo log
+ 	INFO:Vendor: Intel
+[Jul 30, 2024 08:04:49] com.quantum.system.GPUInfo log
+ 	INFO:RENDERER: Mesa Intel(R) UHD Graphics (CML GT2)
+[Jul 30, 2024 08:05:23] com.quantum.utils.logging.Cleanup run
+ 	INFO:Open logs directory
+[Jul 30, 2024 08:05:23] com.quantum.utils.logging.Cleanup run
+ 	INFO:There are 9 log files.
+[Jul 30, 2024 08:05:23] com.quantum.utils.logging.Cleanup getCutOffDate
+ 	INFO:Retention days set to 30 days
+[Jul 30, 2024 08:05:23] com.quantum.utils.logging.Cleanup run
+ 	INFO:Number of log files deleted successfully: 0 file
+[Jul 30, 2024 08:05:24] com.quantum.core.io.Window create
+ 	INFO:OpenGL capabilities created successfully.
+[Jul 30, 2024 08:05:24] com.quantum.system.CPUInfo log
+ 	INFO:CPU: Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz
+[Jul 30, 2024 08:05:24] com.quantum.system.GPUInfo log
+ 	INFO:Vendor: Intel
+[Jul 30, 2024 08:05:24] com.quantum.system.GPUInfo log
+ 	INFO:RENDERER: Mesa Intel(R) UHD Graphics (CML GT2)
+[Jul 30, 2024 08:06:02] com.quantum.utils.logging.Cleanup run
+ 	INFO:Open logs directory
+[Jul 30, 2024 08:06:02] com.quantum.utils.logging.Cleanup run
+ 	INFO:There are 9 log files.
+[Jul 30, 2024 08:06:02] com.quantum.utils.logging.Cleanup getCutOffDate
+ 	INFO:Retention days set to 30 days
+[Jul 30, 2024 08:06:02] com.quantum.utils.logging.Cleanup run
+ 	INFO:Number of log files deleted successfully: 0 file
+[Jul 30, 2024 08:06:02] com.quantum.core.io.Window create
+ 	INFO:OpenGL capabilities created successfully.
+[Jul 30, 2024 08:06:02] com.quantum.system.CPUInfo log
+ 	INFO:CPU: Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz
+[Jul 30, 2024 08:06:02] com.quantum.system.GPUInfo log
+ 	INFO:Vendor: Intel
+[Jul 30, 2024 08:06:02] com.quantum.system.GPUInfo log
+ 	INFO:RENDERER: Mesa Intel(R) UHD Graphics (CML GT2)
+[Jul 30, 2024 08:06:41] com.quantum.utils.logging.Cleanup run
+ 	INFO:Open logs directory
+[Jul 30, 2024 08:06:41] com.quantum.utils.logging.Cleanup run
+ 	INFO:There are 9 log files.
+[Jul 30, 2024 08:06:41] com.quantum.utils.logging.Cleanup getCutOffDate
+ 	INFO:Retention days set to 30 days
+[Jul 30, 2024 08:06:41] com.quantum.utils.logging.Cleanup run
+ 	INFO:Number of log files deleted successfully: 0 file
+[Jul 30, 2024 08:06:41] com.quantum.core.io.Window create
+ 	INFO:OpenGL capabilities created successfully.
+[Jul 30, 2024 08:06:41] com.quantum.system.CPUInfo log
+ 	INFO:CPU: Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz
+[Jul 30, 2024 08:06:41] com.quantum.system.GPUInfo log
+ 	INFO:Vendor: Intel
+[Jul 30, 2024 08:06:41] com.quantum.system.GPUInfo log
+ 	INFO:RENDERER: Mesa Intel(R) UHD Graphics (CML GT2)
+[Jul 30, 2024 08:07:03] com.quantum.utils.logging.Cleanup run
+ 	INFO:Open logs directory
+[Jul 30, 2024 08:07:03] com.quantum.utils.logging.Cleanup run
+ 	INFO:There are 9 log files.
+[Jul 30, 2024 08:07:03] com.quantum.utils.logging.Cleanup getCutOffDate
+ 	INFO:Retention days set to 30 days
+[Jul 30, 2024 08:07:03] com.quantum.utils.logging.Cleanup run
+ 	INFO:Number of log files deleted successfully: 0 file
+[Jul 30, 2024 08:07:03] com.quantum.core.io.Window create
+ 	INFO:OpenGL capabilities created successfully.
+[Jul 30, 2024 08:07:03] com.quantum.system.CPUInfo log
+ 	INFO:CPU: Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz
+[Jul 30, 2024 08:07:03] com.quantum.system.GPUInfo log
+ 	INFO:Vendor: Intel
+[Jul 30, 2024 08:07:04] com.quantum.system.GPUInfo log
+ 	INFO:RENDERER: Mesa Intel(R) UHD Graphics (CML GT2)
+[Jul 30, 2024 08:08:50] com.quantum.utils.logging.Cleanup run
+ 	INFO:Open logs directory
+[Jul 30, 2024 08:08:51] com.quantum.utils.logging.Cleanup run
+ 	INFO:There are 9 log files.
+[Jul 30, 2024 08:08:51] com.quantum.utils.logging.Cleanup getCutOffDate
+ 	INFO:Retention days set to 30 days
+[Jul 30, 2024 08:08:51] com.quantum.utils.logging.Cleanup run
+ 	INFO:Number of log files deleted successfully: 0 file
+[Jul 30, 2024 08:08:51] com.quantum.core.io.Window create
+ 	INFO:OpenGL capabilities created successfully.
+[Jul 30, 2024 08:08:51] com.quantum.system.CPUInfo log
+ 	INFO:CPU: Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz
+[Jul 30, 2024 08:08:51] com.quantum.system.GPUInfo log
+ 	INFO:Vendor: Intel
+[Jul 30, 2024 08:08:51] com.quantum.system.GPUInfo log
+ 	INFO:RENDERER: Mesa Intel(R) UHD Graphics (CML GT2)
+[Jul 30, 2024 08:09:31] com.quantum.utils.logging.Cleanup run
+ 	INFO:Open logs directory
+[Jul 30, 2024 08:09:31] com.quantum.utils.logging.Cleanup run
+ 	INFO:There are 9 log files.
+[Jul 30, 2024 08:09:31] com.quantum.utils.logging.Cleanup getCutOffDate
+ 	INFO:Retention days set to 30 days
+[Jul 30, 2024 08:09:31] com.quantum.utils.logging.Cleanup run
+ 	INFO:Number of log files deleted successfully: 0 file
+[Jul 30, 2024 08:09:31] com.quantum.core.io.Window create
+ 	INFO:OpenGL capabilities created successfully.
+[Jul 30, 2024 08:09:31] com.quantum.system.CPUInfo log
+ 	INFO:CPU: Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz
+[Jul 30, 2024 08:09:31] com.quantum.system.GPUInfo log
+ 	INFO:Vendor: Intel
+[Jul 30, 2024 08:09:31] com.quantum.system.GPUInfo log
+ 	INFO:RENDERER: Mesa Intel(R) UHD Graphics (CML GT2)
+[Jul 30, 2024 08:10:03] com.quantum.utils.logging.Cleanup run
+ 	INFO:Open logs directory
+[Jul 30, 2024 08:10:03] com.quantum.utils.logging.Cleanup run
+ 	INFO:There are 9 log files.
+[Jul 30, 2024 08:10:03] com.quantum.utils.logging.Cleanup getCutOffDate
+ 	INFO:Retention days set to 30 days
+[Jul 30, 2024 08:10:03] com.quantum.utils.logging.Cleanup run
+ 	INFO:Number of log files deleted successfully: 0 file
+[Jul 30, 2024 08:10:03] com.quantum.core.io.Window create
+ 	INFO:OpenGL capabilities created successfully.
+[Jul 30, 2024 08:10:03] com.quantum.system.CPUInfo log
+ 	INFO:CPU: Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz
+[Jul 30, 2024 08:10:03] com.quantum.system.GPUInfo log
+ 	INFO:Vendor: Intel
+[Jul 30, 2024 08:10:03] com.quantum.system.GPUInfo log
+ 	INFO:RENDERER: Mesa Intel(R) UHD Graphics (CML GT2)
+[Jul 30, 2024 08:15:05] com.quantum.utils.logging.Cleanup run
+ 	INFO:Open logs directory
+[Jul 30, 2024 08:15:06] com.quantum.utils.logging.Cleanup run
+ 	INFO:There are 9 log files.
+[Jul 30, 2024 08:15:06] com.quantum.utils.logging.Cleanup getCutOffDate
+ 	INFO:Retention days set to 30 days
+[Jul 30, 2024 08:15:06] com.quantum.utils.logging.Cleanup run
+ 	INFO:Number of log files deleted successfully: 0 file
+[Jul 30, 2024 08:15:06] com.quantum.core.io.Window create
+ 	INFO:OpenGL capabilities created successfully.
+[Jul 30, 2024 08:15:06] com.quantum.system.CPUInfo log
+ 	INFO:CPU: Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz
+[Jul 30, 2024 08:15:06] com.quantum.system.GPUInfo log
+ 	INFO:Vendor: Intel
+[Jul 30, 2024 08:15:06] com.quantum.system.GPUInfo log
+ 	INFO:RENDERER: Mesa Intel(R) UHD Graphics (CML GT2)
+[Jul 30, 2024 08:56:46] com.quantum.utils.logging.Cleanup run
+ 	INFO:Open logs directory
+[Jul 30, 2024 08:56:46] com.quantum.utils.logging.Cleanup run
+ 	INFO:There are 9 log files.
+[Jul 30, 2024 08:56:46] com.quantum.utils.logging.Cleanup getCutOffDate
+ 	INFO:Retention days set to 30 days
+[Jul 30, 2024 08:56:46] com.quantum.utils.logging.Cleanup run
+ 	INFO:Number of log files deleted successfully: 0 file
+[Jul 30, 2024 08:56:46] com.quantum.core.io.Window create
+ 	INFO:OpenGL capabilities created successfully.
+[Jul 30, 2024 08:56:46] com.quantum.system.CPUInfo log
+ 	INFO:CPU: Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz
+[Jul 30, 2024 08:56:46] com.quantum.system.GPUInfo log
+ 	INFO:Vendor: Intel
+[Jul 30, 2024 08:56:46] com.quantum.system.GPUInfo log
+ 	INFO:RENDERER: Mesa Intel(R) UHD Graphics (CML GT2)
+[Jul 30, 2024 08:58:23] com.quantum.utils.logging.Cleanup run
+ 	INFO:Open logs directory
+[Jul 30, 2024 08:58:23] com.quantum.utils.logging.Cleanup run
+ 	INFO:There are 9 log files.
+[Jul 30, 2024 08:58:23] com.quantum.utils.logging.Cleanup getCutOffDate
+ 	INFO:Retention days set to 30 days
+[Jul 30, 2024 08:58:23] com.quantum.utils.logging.Cleanup run
+ 	INFO:Number of log files deleted successfully: 0 file
+[Jul 30, 2024 08:58:24] com.quantum.core.io.Window create
+ 	INFO:OpenGL capabilities created successfully.
+[Jul 30, 2024 08:58:24] com.quantum.system.CPUInfo log
+ 	INFO:CPU: Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz
+[Jul 30, 2024 08:58:24] com.quantum.system.GPUInfo log
+ 	INFO:Vendor: Intel
+[Jul 30, 2024 08:58:24] com.quantum.system.GPUInfo log
+ 	INFO:RENDERER: Mesa Intel(R) UHD Graphics (CML GT2)
+[Jul 30, 2024 08:59:52] com.quantum.utils.logging.Cleanup run
+ 	INFO:Open logs directory
+[Jul 30, 2024 08:59:52] com.quantum.utils.logging.Cleanup run
+ 	INFO:There are 9 log files.
+[Jul 30, 2024 08:59:52] com.quantum.utils.logging.Cleanup getCutOffDate
+ 	INFO:Retention days set to 30 days
+[Jul 30, 2024 08:59:52] com.quantum.utils.logging.Cleanup run
+ 	INFO:Number of log files deleted successfully: 0 file
+[Jul 30, 2024 08:59:52] com.quantum.core.io.Window create
+ 	INFO:OpenGL capabilities created successfully.
+[Jul 30, 2024 08:59:52] com.quantum.system.CPUInfo log
+ 	INFO:CPU: Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz
+[Jul 30, 2024 08:59:52] com.quantum.system.GPUInfo log
+ 	INFO:Vendor: Intel
+[Jul 30, 2024 08:59:52] com.quantum.system.GPUInfo log
+ 	INFO:RENDERER: Mesa Intel(R) UHD Graphics (CML GT2)
+[Jul 30, 2024 09:00:16] com.quantum.utils.logging.Cleanup run
+ 	INFO:Open logs directory
+[Jul 30, 2024 09:00:16] com.quantum.utils.logging.Cleanup run
+ 	INFO:There are 9 log files.
+[Jul 30, 2024 09:00:16] com.quantum.utils.logging.Cleanup getCutOffDate
+ 	INFO:Retention days set to 30 days
+[Jul 30, 2024 09:00:16] com.quantum.utils.logging.Cleanup run
+ 	INFO:Number of log files deleted successfully: 0 file
+[Jul 30, 2024 09:00:16] com.quantum.core.io.Window create
+ 	INFO:OpenGL capabilities created successfully.
+[Jul 30, 2024 09:00:16] com.quantum.system.CPUInfo log
+ 	INFO:CPU: Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz
+[Jul 30, 2024 09:00:16] com.quantum.system.GPUInfo log
+ 	INFO:Vendor: Intel
+[Jul 30, 2024 09:00:16] com.quantum.system.GPUInfo log
+ 	INFO:RENDERER: Mesa Intel(R) UHD Graphics (CML GT2)
+[Jul 30, 2024 09:01:12] com.quantum.utils.logging.Cleanup run
+ 	INFO:Open logs directory
+[Jul 30, 2024 09:01:12] com.quantum.utils.logging.Cleanup run
+ 	INFO:There are 9 log files.
+[Jul 30, 2024 09:01:12] com.quantum.utils.logging.Cleanup getCutOffDate
+ 	INFO:Retention days set to 30 days
+[Jul 30, 2024 09:01:12] com.quantum.utils.logging.Cleanup run
+ 	INFO:Number of log files deleted successfully: 0 file
+[Jul 30, 2024 09:01:13] com.quantum.core.io.Window create
+ 	INFO:OpenGL capabilities created successfully.
+[Jul 30, 2024 09:01:13] com.quantum.system.CPUInfo log
+ 	INFO:CPU: Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz
+[Jul 30, 2024 09:01:13] com.quantum.system.GPUInfo log
+ 	INFO:Vendor: Intel
+[Jul 30, 2024 09:01:13] com.quantum.system.GPUInfo log
+ 	INFO:RENDERER: Mesa Intel(R) UHD Graphics (CML GT2)
+[Jul 30, 2024 09:01:55] com.quantum.utils.logging.Cleanup run
+ 	INFO:Open logs directory
+[Jul 30, 2024 09:01:55] com.quantum.utils.logging.Cleanup run
+ 	INFO:There are 9 log files.
+[Jul 30, 2024 09:01:55] com.quantum.utils.logging.Cleanup getCutOffDate
+ 	INFO:Retention days set to 30 days
+[Jul 30, 2024 09:01:55] com.quantum.utils.logging.Cleanup run
+ 	INFO:Number of log files deleted successfully: 0 file
+[Jul 30, 2024 09:01:56] com.quantum.core.io.Window create
+ 	INFO:OpenGL capabilities created successfully.
+[Jul 30, 2024 09:01:56] com.quantum.system.CPUInfo log
+ 	INFO:CPU: Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz
+[Jul 30, 2024 09:01:56] com.quantum.system.GPUInfo log
+ 	INFO:Vendor: Intel
+[Jul 30, 2024 09:01:56] com.quantum.system.GPUInfo log
+ 	INFO:RENDERER: Mesa Intel(R) UHD Graphics (CML GT2)
+[Jul 30, 2024 09:03:40] com.quantum.utils.logging.Cleanup run
+ 	INFO:Open logs directory
+[Jul 30, 2024 09:03:40] com.quantum.utils.logging.Cleanup run
+ 	INFO:There are 9 log files.
+[Jul 30, 2024 09:03:40] com.quantum.utils.logging.Cleanup getCutOffDate
+ 	INFO:Retention days set to 30 days
+[Jul 30, 2024 09:03:40] com.quantum.utils.logging.Cleanup run
+ 	INFO:Number of log files deleted successfully: 0 file
+[Jul 30, 2024 09:03:41] com.quantum.core.io.Window create
+ 	INFO:OpenGL capabilities created successfully.
+[Jul 30, 2024 09:03:41] com.quantum.system.CPUInfo log
+ 	INFO:CPU: Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz
+[Jul 30, 2024 09:03:41] com.quantum.system.GPUInfo log
+ 	INFO:Vendor: Intel
+[Jul 30, 2024 09:03:41] com.quantum.system.GPUInfo log
+ 	INFO:RENDERER: Mesa Intel(R) UHD Graphics (CML GT2)
+[Jul 30, 2024 09:36:34] com.quantum.utils.logging.Cleanup run
+ 	INFO:Open logs directory
+[Jul 30, 2024 09:36:34] com.quantum.utils.logging.Cleanup run
+ 	INFO:There are 9 log files.
+[Jul 30, 2024 09:36:34] com.quantum.utils.logging.Cleanup getCutOffDate
+ 	INFO:Retention days set to 30 days
+[Jul 30, 2024 09:36:34] com.quantum.utils.logging.Cleanup run
+ 	INFO:Number of log files deleted successfully: 0 file
+[Jul 30, 2024 09:36:35] com.quantum.core.io.Window create
+ 	INFO:OpenGL capabilities created successfully.
+[Jul 30, 2024 09:36:35] com.quantum.system.CPUInfo log
+ 	INFO:CPU: Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz
+[Jul 30, 2024 09:36:35] com.quantum.system.GPUInfo log
+ 	INFO:Vendor: Intel
+[Jul 30, 2024 09:36:35] com.quantum.system.GPUInfo log
+ 	INFO:RENDERER: Mesa Intel(R) UHD Graphics (CML GT2)
+[Jul 30, 2024 09:37:41] com.quantum.utils.logging.Cleanup run
+ 	INFO:Open logs directory
+[Jul 30, 2024 09:37:41] com.quantum.utils.logging.Cleanup run
+ 	INFO:There are 9 log files.
+[Jul 30, 2024 09:37:41] com.quantum.utils.logging.Cleanup getCutOffDate
+ 	INFO:Retention days set to 30 days
+[Jul 30, 2024 09:37:41] com.quantum.utils.logging.Cleanup run
+ 	INFO:Number of log files deleted successfully: 0 file
+[Jul 30, 2024 09:37:41] com.quantum.core.io.Window create
+ 	INFO:OpenGL capabilities created successfully.
+[Jul 30, 2024 09:37:41] com.quantum.system.CPUInfo log
+ 	INFO:CPU: Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz
+[Jul 30, 2024 09:37:41] com.quantum.system.GPUInfo log
+ 	INFO:Vendor: Intel
+[Jul 30, 2024 09:37:41] com.quantum.system.GPUInfo log
+ 	INFO:RENDERER: Mesa Intel(R) UHD Graphics (CML GT2)
+[Jul 30, 2024 09:38:13] com.quantum.utils.logging.Cleanup run
+ 	INFO:Open logs directory
+[Jul 30, 2024 09:38:13] com.quantum.utils.logging.Cleanup run
+ 	INFO:There are 9 log files.
+[Jul 30, 2024 09:38:13] com.quantum.utils.logging.Cleanup getCutOffDate
+ 	INFO:Retention days set to 30 days
+[Jul 30, 2024 09:38:13] com.quantum.utils.logging.Cleanup run
+ 	INFO:Number of log files deleted successfully: 0 file
+[Jul 30, 2024 09:38:37] com.quantum.utils.logging.Cleanup run
+ 	INFO:Open logs directory
+[Jul 30, 2024 09:38:37] com.quantum.utils.logging.Cleanup run
+ 	INFO:There are 9 log files.
+[Jul 30, 2024 09:38:37] com.quantum.utils.logging.Cleanup getCutOffDate
+ 	INFO:Retention days set to 30 days
+[Jul 30, 2024 09:38:37] com.quantum.utils.logging.Cleanup run
+ 	INFO:Number of log files deleted successfully: 0 file
+[Jul 30, 2024 09:38:38] com.quantum.core.io.Window create
+ 	INFO:OpenGL capabilities created successfully.
+[Jul 30, 2024 09:38:38] com.quantum.system.CPUInfo log
+ 	INFO:CPU: Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz
+[Jul 30, 2024 09:38:38] com.quantum.system.GPUInfo log
+ 	INFO:Vendor: Intel
+[Jul 30, 2024 09:38:38] com.quantum.system.GPUInfo log
+ 	INFO:RENDERER: Mesa Intel(R) UHD Graphics (CML GT2)
+[Jul 30, 2024 09:48:19] com.quantum.utils.logging.Cleanup run
+ 	INFO:Open logs directory
+[Jul 30, 2024 09:48:19] com.quantum.utils.logging.Cleanup run
+ 	INFO:There are 9 log files.
+[Jul 30, 2024 09:48:19] com.quantum.utils.logging.Cleanup getCutOffDate
+ 	INFO:Retention days set to 30 days
+[Jul 30, 2024 09:48:19] com.quantum.utils.logging.Cleanup run
+ 	INFO:Number of log files deleted successfully: 0 file
+[Jul 30, 2024 09:48:19] com.quantum.core.io.Window create
+ 	INFO:OpenGL capabilities created successfully.
+[Jul 30, 2024 09:48:19] com.quantum.system.CPUMonitor log
+ 	INFO:CPU: Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz
+[Jul 30, 2024 09:48:19] com.quantum.system.GPUMonitor log
+ 	INFO:Vendor: Intel
+[Jul 30, 2024 09:48:19] com.quantum.system.GPUMonitor log
+ 	INFO:RENDERER: Mesa Intel(R) UHD Graphics (CML GT2)
+[Jul 30, 2024 09:49:23] com.quantum.utils.logging.Cleanup run
+ 	INFO:Open logs directory
+[Jul 30, 2024 09:49:23] com.quantum.utils.logging.Cleanup run
+ 	INFO:There are 9 log files.
+[Jul 30, 2024 09:49:23] com.quantum.utils.logging.Cleanup getCutOffDate
+ 	INFO:Retention days set to 30 days
+[Jul 30, 2024 09:49:23] com.quantum.utils.logging.Cleanup run
+ 	INFO:Number of log files deleted successfully: 0 file
+[Jul 30, 2024 09:49:24] com.quantum.core.io.Window create
+ 	INFO:OpenGL capabilities created successfully.
+[Jul 30, 2024 09:49:24] com.quantum.system.CPUMonitor log
+ 	INFO:CPU: Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz
+[Jul 30, 2024 09:49:24] com.quantum.system.GPUMonitor log
+ 	INFO:Vendor: Intel
+[Jul 30, 2024 09:49:24] com.quantum.system.GPUMonitor log
+ 	INFO:RENDERER: Mesa Intel(R) UHD Graphics (CML GT2)
+[Jul 30, 2024 10:05:04] com.quantum.utils.logging.Cleanup run
+ 	INFO:Open logs directory
+[Jul 30, 2024 10:05:04] com.quantum.utils.logging.Cleanup run
+ 	INFO:There are 9 log files.
+[Jul 30, 2024 10:05:04] com.quantum.utils.logging.Cleanup getCutOffDate
+ 	INFO:Retention days set to 30 days
+[Jul 30, 2024 10:05:04] com.quantum.utils.logging.Cleanup run
+ 	INFO:Number of log files deleted successfully: 0 file
+[Jul 30, 2024 10:05:05] com.quantum.core.io.Window create
+ 	INFO:OpenGL capabilities created successfully.
+[Jul 30, 2024 10:05:05] com.quantum.system.CPUMonitor log
+ 	INFO:CPU: Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz
+[Jul 30, 2024 10:05:05] com.quantum.system.GPUMonitor log
+ 	INFO:Vendor: Intel
+[Jul 30, 2024 10:05:05] com.quantum.system.GPUMonitor log
+ 	INFO:RENDERER: Mesa Intel(R) UHD Graphics (CML GT2)
+[Jul 30, 2024 10:10:17] com.quantum.utils.logging.Cleanup run
+ 	INFO:Open logs directory
+[Jul 30, 2024 10:10:17] com.quantum.utils.logging.Cleanup run
+ 	INFO:There are 9 log files.
+[Jul 30, 2024 10:10:17] com.quantum.utils.logging.Cleanup getCutOffDate
+ 	INFO:Retention days set to 30 days
+[Jul 30, 2024 10:10:17] com.quantum.utils.logging.Cleanup run
+ 	INFO:Number of log files deleted successfully: 0 file
+[Jul 30, 2024 10:10:18] com.quantum.core.io.Window create
+ 	INFO:OpenGL capabilities created successfully.
+[Jul 30, 2024 10:10:18] com.quantum.system.CPUMonitor log
+ 	INFO:CPU: Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz
+[Jul 30, 2024 10:10:18] com.quantum.system.GPUMonitor log
+ 	INFO:Vendor: Intel
+[Jul 30, 2024 10:10:18] com.quantum.system.GPUMonitor log
+ 	INFO:RENDERER: Mesa Intel(R) UHD Graphics (CML GT2)
+[Jul 30, 2024 10:24:29] com.quantum.utils.logging.Cleanup run
+ 	INFO:Open logs directory
+[Jul 30, 2024 10:24:29] com.quantum.utils.logging.Cleanup run
+ 	INFO:There are 9 log files.
+[Jul 30, 2024 10:24:29] com.quantum.utils.logging.Cleanup getCutOffDate
+ 	INFO:Retention days set to 30 days
+[Jul 30, 2024 10:24:29] com.quantum.utils.logging.Cleanup run
+ 	INFO:Number of log files deleted successfully: 0 file
+[Jul 30, 2024 10:24:29] com.quantum.core.io.Window create
+ 	INFO:OpenGL capabilities created successfully.
+[Jul 30, 2024 10:24:29] com.quantum.system.GPUMonitor log
+ 	INFO:Vendor: Intel
+[Jul 30, 2024 10:24:29] com.quantum.system.GPUMonitor log
+ 	INFO:RENDERER: Mesa Intel(R) UHD Graphics (CML GT2)
+[Jul 30, 2024 10:25:26] com.quantum.utils.logging.Cleanup run
+ 	INFO:Open logs directory
+[Jul 30, 2024 10:25:26] com.quantum.utils.logging.Cleanup run
+ 	INFO:There are 10 log files.
+[Jul 30, 2024 10:25:26] com.quantum.utils.logging.Cleanup getCutOffDate
+ 	INFO:Retention days set to 30 days
+[Jul 30, 2024 10:25:26] com.quantum.utils.logging.Cleanup run
+ 	SEVERE:An execption occured
+		Exception: java.text.ParseException: Unparseable date: "HI-2024-07-30.log"
+			java.base/java.text.DateFormat.parse(DateFormat.java:399)
+			com.quantum.utils.logging.Cleanup.extract(Cleanup.java:143)
+			com.quantum.utils.logging.Cleanup.run(Cleanup.java:91)
+[Jul 30, 2024 10:25:26] com.quantum.utils.logging.Cleanup run
+ 	INFO:Number of log files deleted successfully: 0 file
+[Jul 30, 2024 10:25:27] com.quantum.core.io.Window create
+ 	INFO:OpenGL capabilities created successfully.
+[Jul 30, 2024 10:25:27] com.quantum.system.GPUMonitor log
+ 	INFO:Vendor: Intel
+[Jul 30, 2024 10:25:27] com.quantum.system.GPUMonitor log
+ 	INFO:RENDERER: Mesa Intel(R) UHD Graphics (CML GT2)
+[Jul 30, 2024 10:26:26] com.quantum.utils.logging.Cleanup run
+ 	INFO:Open logs directory
+[Jul 30, 2024 10:26:26] com.quantum.utils.logging.Cleanup run
+ 	INFO:There are 10 log files.
+[Jul 30, 2024 10:26:26] com.quantum.utils.logging.Cleanup getCutOffDate
+ 	INFO:Retention days set to 30 days
+[Jul 30, 2024 10:26:26] com.quantum.utils.logging.Cleanup run
+ 	SEVERE:An execption occured
+		Exception: java.text.ParseException: Unparseable date: "HI-2024-07-30.log"
+			java.base/java.text.DateFormat.parse(DateFormat.java:399)
+			com.quantum.utils.logging.Cleanup.extract(Cleanup.java:143)
+			com.quantum.utils.logging.Cleanup.run(Cleanup.java:91)
+[Jul 30, 2024 10:26:26] com.quantum.utils.logging.Cleanup run
+ 	INFO:Number of log files deleted successfully: 0 file
+[Jul 30, 2024 10:26:27] com.quantum.core.io.Window create
+ 	INFO:OpenGL capabilities created successfully.
+[Jul 30, 2024 10:26:27] com.quantum.system.GPUMonitor log
+ 	INFO:Vendor: Intel
+[Jul 30, 2024 10:26:27] com.quantum.system.GPUMonitor log
+ 	INFO:RENDERER: Mesa Intel(R) UHD Graphics (CML GT2)
+[Jul 30, 2024 10:29:43] com.quantum.utils.logging.Cleanup run
+ 	INFO:Open logs directory
+[Jul 30, 2024 10:29:43] com.quantum.utils.logging.Cleanup run
+ 	INFO:There are 10 log files.
+[Jul 30, 2024 10:29:43] com.quantum.utils.logging.Cleanup getCutOffDate
+ 	INFO:Retention days set to 30 days
+[Jul 30, 2024 10:29:43] com.quantum.utils.logging.Cleanup run
+ 	SEVERE:An execption occured
+		Exception: java.text.ParseException: Unparseable date: "HI-2024-07-30.log"
+			java.base/java.text.DateFormat.parse(DateFormat.java:399)
+			com.quantum.utils.logging.Cleanup.extract(Cleanup.java:143)
+			com.quantum.utils.logging.Cleanup.run(Cleanup.java:91)
+[Jul 30, 2024 10:29:43] com.quantum.utils.logging.Cleanup run
+ 	INFO:Number of log files deleted successfully: 0 file
+[Jul 30, 2024 10:29:43] com.quantum.core.io.Window create
+ 	INFO:OpenGL capabilities created successfully.
+[Jul 30, 2024 10:29:43] com.quantum.system.GPUMonitor log
+ 	INFO:Vendor: Intel
+[Jul 30, 2024 10:29:43] com.quantum.system.GPUMonitor log
+ 	INFO:RENDERER: Mesa Intel(R) UHD Graphics (CML GT2)
+[Jul 30, 2024 10:30:33] com.quantum.utils.logging.Cleanup run
+ 	INFO:Open logs directory
+[Jul 30, 2024 10:30:33] com.quantum.utils.logging.Cleanup run
+ 	INFO:There are 10 log files.
+[Jul 30, 2024 10:30:33] com.quantum.utils.logging.Cleanup getCutOffDate
+ 	INFO:Retention days set to 30 days
+[Jul 30, 2024 10:30:33] com.quantum.utils.logging.Cleanup run
+ 	SEVERE:An execption occured
+		Exception: java.text.ParseException: Unparseable date: "HI-2024-07-30.log"
+			java.base/java.text.DateFormat.parse(DateFormat.java:399)
+			com.quantum.utils.logging.Cleanup.extract(Cleanup.java:143)
+			com.quantum.utils.logging.Cleanup.run(Cleanup.java:91)
+[Jul 30, 2024 10:30:33] com.quantum.utils.logging.Cleanup run
+ 	INFO:Number of log files deleted successfully: 0 file
+[Jul 30, 2024 10:30:33] com.quantum.core.io.Window create
+ 	INFO:OpenGL capabilities created successfully.
+[Jul 30, 2024 10:30:33] com.quantum.system.GPUMonitor log
+ 	INFO:Vendor: Intel
+[Jul 30, 2024 10:30:33] com.quantum.system.GPUMonitor log
+ 	INFO:RENDERER: Mesa Intel(R) UHD Graphics (CML GT2)
+[Jul 30, 2024 10:33:47] com.quantum.utils.logging.Cleanup run
+ 	INFO:Open logs directory
+[Jul 30, 2024 10:33:47] com.quantum.utils.logging.Cleanup run
+ 	INFO:There are 10 log files.
+[Jul 30, 2024 10:33:47] com.quantum.utils.logging.Cleanup getCutOffDate
+ 	INFO:Retention days set to 30 days
+[Jul 30, 2024 10:33:47] com.quantum.utils.logging.Cleanup run
+ 	SEVERE:An execption occured
+		Exception: java.text.ParseException: Unparseable date: "HI-2024-07-30.log"
+			java.base/java.text.DateFormat.parse(DateFormat.java:399)
+			com.quantum.utils.logging.Cleanup.extract(Cleanup.java:143)
+			com.quantum.utils.logging.Cleanup.run(Cleanup.java:91)
+[Jul 30, 2024 10:33:47] com.quantum.utils.logging.Cleanup run
+ 	INFO:Number of log files deleted successfully: 0 file
+[Jul 30, 2024 10:33:48] com.quantum.core.io.Window create
+ 	INFO:OpenGL capabilities created successfully.
+[Jul 30, 2024 10:33:48] com.quantum.system.GPUMonitor log
+ 	INFO:Vendor: Intel
+[Jul 30, 2024 10:33:48] com.quantum.system.GPUMonitor log
+ 	INFO:RENDERER: Mesa Intel(R) UHD Graphics (CML GT2)
+[Jul 30, 2024 10:34:51] com.quantum.utils.logging.Cleanup run
+ 	INFO:Open logs directory
+[Jul 30, 2024 10:34:51] com.quantum.utils.logging.Cleanup run
+ 	INFO:There are 10 log files.
+[Jul 30, 2024 10:34:51] com.quantum.utils.logging.Cleanup getCutOffDate
+ 	INFO:Retention days set to 30 days
+[Jul 30, 2024 10:34:51] com.quantum.utils.logging.Cleanup run
+ 	SEVERE:An execption occured
+		Exception: java.text.ParseException: Unparseable date: "HI-2024-07-30.log"
+			java.base/java.text.DateFormat.parse(DateFormat.java:399)
+			com.quantum.utils.logging.Cleanup.extract(Cleanup.java:143)
+			com.quantum.utils.logging.Cleanup.run(Cleanup.java:91)
+[Jul 30, 2024 10:34:51] com.quantum.utils.logging.Cleanup run
+ 	INFO:Number of log files deleted successfully: 0 file
+[Jul 30, 2024 10:34:52] com.quantum.core.io.Window create
+ 	INFO:OpenGL capabilities created successfully.
+[Jul 30, 2024 10:34:52] com.quantum.system.GPUMonitor log
+ 	INFO:Vendor: Intel
+[Jul 30, 2024 10:34:52] com.quantum.system.GPUMonitor log
+ 	INFO:RENDERER: Mesa Intel(R) UHD Graphics (CML GT2)
+[Jul 30, 2024 11:03:35] com.quantum.utils.logging.Cleanup run
+ 	INFO:Open logs directory
+[Jul 30, 2024 11:03:35] com.quantum.utils.logging.Cleanup run
+ 	INFO:There are 10 log files.
+[Jul 30, 2024 11:03:35] com.quantum.utils.logging.Cleanup getCutOffDate
+ 	INFO:Retention days set to 30 days
+[Jul 30, 2024 11:03:35] com.quantum.utils.logging.Cleanup run
+ 	SEVERE:An execption occured
+		Exception: java.text.ParseException: Unparseable date: "HI-2024-07-30.log"
+			java.base/java.text.DateFormat.parse(DateFormat.java:399)
+			com.quantum.utils.logging.Cleanup.extract(Cleanup.java:143)
+			com.quantum.utils.logging.Cleanup.run(Cleanup.java:91)
+[Jul 30, 2024 11:03:35] com.quantum.utils.logging.Cleanup run
+ 	INFO:Number of log files deleted successfully: 0 file
+[Jul 30, 2024 11:03:36] com.quantum.core.io.Window create
+ 	INFO:OpenGL capabilities created successfully.
+[Jul 30, 2024 11:03:36] com.quantum.system.GPUMonitor log
+ 	INFO:Vendor: Intel
+[Jul 30, 2024 11:03:36] com.quantum.system.GPUMonitor log
+ 	INFO:RENDERER: Mesa Intel(R) UHD Graphics (CML GT2)
+[Jul 30, 2024 13:11:36] com.quantum.utils.logging.Cleanup run
+ 	INFO:Open logs directory
+[Jul 30, 2024 13:11:36] com.quantum.utils.logging.Cleanup run
+ 	INFO:There are 10 log files.
+[Jul 30, 2024 13:11:36] com.quantum.utils.logging.Cleanup getCutOffDate
+ 	INFO:Retention days set to 30 days
+[Jul 30, 2024 13:11:36] com.quantum.utils.logging.Cleanup run
+ 	SEVERE:An execption occured
+		Exception: java.text.ParseException: Unparseable date: "HI-2024-07-30.log"
+			java.base/java.text.DateFormat.parse(DateFormat.java:399)
+			com.quantum.utils.logging.Cleanup.extract(Cleanup.java:143)
+			com.quantum.utils.logging.Cleanup.run(Cleanup.java:91)
+[Jul 30, 2024 13:11:36] com.quantum.utils.logging.Cleanup run
+ 	INFO:Number of log files deleted successfully: 0 file
+[Jul 30, 2024 13:11:36] com.quantum.core.io.Window create
+ 	INFO:OpenGL capabilities created successfully.
+[Jul 30, 2024 13:11:36] com.quantum.system.GPUMonitor log
+ 	INFO:Vendor: Intel
+[Jul 30, 2024 13:11:36] com.quantum.system.GPUMonitor log
+ 	INFO:RENDERER: Mesa Intel(R) UHD Graphics (CML GT2)
+[Jul 30, 2024 13:40:05] com.quantum.utils.logging.Cleanup run
+ 	INFO:Open logs directory
+[Jul 30, 2024 13:40:05] com.quantum.utils.logging.Cleanup run
+ 	INFO:There are 10 log files.
+[Jul 30, 2024 13:40:05] com.quantum.utils.logging.Cleanup getCutOffDate
+ 	INFO:Retention days set to 30 days
+[Jul 30, 2024 13:40:05] com.quantum.utils.logging.Cleanup run
+ 	SEVERE:An execption occured
+		Exception: java.text.ParseException: Unparseable date: "HI-2024-07-30.log"
+			java.base/java.text.DateFormat.parse(DateFormat.java:399)
+			com.quantum.utils.logging.Cleanup.extract(Cleanup.java:143)
+			com.quantum.utils.logging.Cleanup.run(Cleanup.java:91)
+[Jul 30, 2024 13:40:05] com.quantum.utils.logging.Cleanup run
+ 	INFO:Number of log files deleted successfully: 0 file
+[Jul 30, 2024 13:40:05] com.quantum.core.io.Window create
+ 	INFO:OpenGL capabilities created successfully.
+[Jul 30, 2024 13:40:05] com.quantum.system.GPUMonitor log
+ 	INFO:Vendor: Intel
+[Jul 30, 2024 13:40:05] com.quantum.system.GPUMonitor log
+ 	INFO:RENDERER: Mesa Intel(R) UHD Graphics (CML GT2)
+[Jul 30, 2024 13:40:33] com.quantum.utils.logging.Cleanup run
+ 	INFO:Open logs directory
+[Jul 30, 2024 13:40:33] com.quantum.utils.logging.Cleanup run
+ 	INFO:There are 10 log files.
+[Jul 30, 2024 13:40:33] com.quantum.utils.logging.Cleanup getCutOffDate
+ 	INFO:Retention days set to 30 days
+[Jul 30, 2024 13:40:33] com.quantum.utils.logging.Cleanup run
+ 	SEVERE:An execption occured
+		Exception: java.text.ParseException: Unparseable date: "HI-2024-07-30.log"
+			java.base/java.text.DateFormat.parse(DateFormat.java:399)
+			com.quantum.utils.logging.Cleanup.extract(Cleanup.java:143)
+			com.quantum.utils.logging.Cleanup.run(Cleanup.java:91)
+[Jul 30, 2024 13:40:33] com.quantum.utils.logging.Cleanup run
+ 	INFO:Number of log files deleted successfully: 0 file
+[Jul 30, 2024 13:40:33] com.quantum.core.io.Window create
+ 	INFO:OpenGL capabilities created successfully.
+[Jul 30, 2024 13:40:33] com.quantum.system.GPUMonitor log
+ 	INFO:Vendor: Intel
+[Jul 30, 2024 13:40:33] com.quantum.system.GPUMonitor log
+ 	INFO:RENDERER: Mesa Intel(R) UHD Graphics (CML GT2)

@@ -1,0 +1,13 @@
+com.quantum.core
+com.quantum.core.graphics
+com.quantum.core.io
+com.quantum.core.logic
+com.quantum.entity
+com.quantum.entity.light
+com.quantum.launcher
+com.quantum.system
+com.quantum.ui
+com.quantum.ui.event
+com.quantum.utils
+com.quantum.utils.config
+com.quantum.utils.logging

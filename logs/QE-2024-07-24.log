@@ -1,0 +1,115 @@
+[Jul 24, 2024 13:45:18] com.quantum.core.graphics.Shader createShader
+ 	SEVERE:An exception occurred
+		Exception: java.lang.Exception: Error compiling Shader codde: 0:7(20): error: syntax error, unexpected DOT_TOK, expecting '('
+
+			com.quantum.core.graphics.Shader.createShader(Shader.java:67)
+			com.quantum.core.graphics.Shader.createVertexShader(Shader.java:47)
+			com.quantum.core.graphics.Renderer.init(Renderer.java:42)
+			com.quantum.launcher.MyGame.init(MyGame.java:24)
+			com.quantum.core.GameEngine.init(GameEngine.java:103)
+			com.quantum.core.GameEngine.run(GameEngine.java:41)
+			com.quantum.launcher.Launcher.main(Launcher.java:13)
+[Jul 24, 2024 14:15:06] com.quantum.core.graphics.Shader createShader
+ 	SEVERE:An exception occurred
+		Exception: java.lang.Exception: Error compiling Shader codde: 0:9(19): error: `exColor' undeclared
+0:9(14): error: cannot construct `vec4' from a non-numeric data type
+
+			com.quantum.core.graphics.Shader.createShader(Shader.java:67)
+			com.quantum.core.graphics.Shader.createFragmentShader(Shader.java:51)
+			com.quantum.core.graphics.Renderer.init(Renderer.java:24)
+			com.quantum.launcher.MyGame.init(MyGame.java:27)
+			com.quantum.core.GameEngine.init(GameEngine.java:109)
+			com.quantum.core.GameEngine.run(GameEngine.java:41)
+			java.base/java.lang.Thread.run(Thread.java:1583)
+[Jul 24, 2024 15:29:54] com.quantum.core.graphics.Shader createShader
+ 	SEVERE:An exception occurred
+		Exception: java.lang.Exception: Error compiling Shader codde: 0:5(1): error: syntax error, unexpected OUT_TOK, expecting ',' or ';'
+
+			com.quantum.core.graphics.Shader.createShader(Shader.java:99)
+			com.quantum.core.graphics.Shader.createFragmentShader(Shader.java:83)
+			com.quantum.core.graphics.Renderer.init(Renderer.java:30)
+			com.quantum.launcher.MyGame.init(MyGame.java:31)
+			com.quantum.core.GameEngine.init(GameEngine.java:109)
+			com.quantum.core.GameEngine.run(GameEngine.java:41)
+			java.base/java.lang.Thread.run(Thread.java:1583)
+[Jul 24, 2024 15:30:54] com.quantum.core.graphics.Shader createShader
+ 	SEVERE:An exception occurred
+		Exception: java.lang.Exception: Error compiling Shader codde: 0:11(39): error: `outTexCoord' undeclared
+0:11(14): error: no matching function for call to `texture(sampler2D, error)'; candidates are:
+0:11(14): error:    vec4 texture(sampler1D, float)
+0:11(14): error:    ivec4 texture(isampler1D, float)
+0:11(14): error:    uvec4 texture(usampler1D, float)
+0:11(14): error:    vec4 texture(sampler2D, vec2)
+0:11(14): error:    ivec4 texture(isampler2D, vec2)
+0:11(14): error:    uvec4 texture(usampler2D, vec2)
+0:11(14): error:    vec4 texture(sampler3D, vec3)
+0:11(14): error:    ivec4 texture(isampler3D, vec3)
+0:11(14): error:    uvec4 texture(usampler3D, vec3)
+0:11(14): error:    vec4 texture(samplerCube, vec3)
+0:11(14): error:    ivec4 texture(isamplerCube, vec3)
+0:11(14): error:    uvec4 texture(usamplerCube, vec3)
+0:11(14): error:    float texture(sampler1DShadow, vec3)
+0:11(14): error:    float texture(sampler2DShadow, vec3)
+0:11(14): error:    float texture(samplerCubeShadow, vec4)
+0:11(14): error:    vec4 texture(sampler1DArray, vec2)
+0:11(14): error:    ivec4 texture
+			com.quantum.core.graphics.Shader.createShader(Shader.java:99)
+			com.quantum.core.graphics.Shader.createFragmentShader(Shader.java:83)
+			com.quantum.core.graphics.Renderer.init(Renderer.java:30)
+			com.quantum.launcher.MyGame.init(MyGame.java:31)
+			com.quantum.core.GameEngine.init(GameEngine.java:109)
+			com.quantum.core.GameEngine.run(GameEngine.java:41)
+			java.base/java.lang.Thread.run(Thread.java:1583)
+[Jul 24, 2024 15:31:17] com.quantum.core.graphics.Shader link
+ 	SEVERE:An exception occurred
+		Exception: java.lang.Exception: Error linking Shader code: error: vertex shader output `outTexCoords' declared as type `vec3', but fragment shader input declared as type `vec2'
+
+			com.quantum.core.graphics.Shader.link(Shader.java:113)
+			com.quantum.core.graphics.Renderer.init(Renderer.java:31)
+			com.quantum.launcher.MyGame.init(MyGame.java:31)
+			com.quantum.core.GameEngine.init(GameEngine.java:109)
+			com.quantum.core.GameEngine.run(GameEngine.java:41)
+			java.base/java.lang.Thread.run(Thread.java:1583)
+[Jul 24, 2024 15:31:52] com.quantum.core.graphics.Shader createShader
+ 	SEVERE:An exception occurred
+		Exception: java.lang.Exception: Error compiling Shader codde: 0:14(2): error: value of type vec3 cannot be assigned to variable of type vec2
+
+			com.quantum.core.graphics.Shader.createShader(Shader.java:99)
+			com.quantum.core.graphics.Shader.createVertexShader(Shader.java:79)
+			com.quantum.core.graphics.Renderer.init(Renderer.java:29)
+			com.quantum.launcher.MyGame.init(MyGame.java:31)
+			com.quantum.core.GameEngine.init(GameEngine.java:109)
+			com.quantum.core.GameEngine.run(GameEngine.java:41)
+			java.base/java.lang.Thread.run(Thread.java:1583)
+[Jul 24, 2024 13:37:26] com.quantum.core.io.RessourceLoader loadRessource
+ 	SEVERE:Error reading file [/com/res/shaders/MainVertex.glsl]
+		Exception: java.nio.file.NoSuchFileException: /com/res/shaders/MainVertex.glsl
+			java.base/sun.nio.fs.UnixException.translateToIOException(UnixException.java:92)
+			java.base/sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:106)
+			java.base/sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:111)
+			java.base/sun.nio.fs.UnixFileSystemProvider.newByteChannel(UnixFileSystemProvider.java:261)
+			java.base/java.nio.file.Files.newByteChannel(Files.java:379)
+			java.base/java.nio.file.Files.newByteChannel(Files.java:431)
+			java.base/java.nio.file.Files.readAllBytes(Files.java:3268)
+			com.quantum.core.io.RessourceLoader.loadRessource(RessourceLoader.java:20)
+			com.quantum.core.graphics.Renderer.init(Renderer.java:42)
+			com.quantum.launcher.MyGame.init(MyGame.java:24)
+			com.quantum.core.GameEngine.init(GameEngine.java:103)
+			com.quantum.core.GameEngine.run(GameEngine.java:41)
+			com.quantum.launcher.Launcher.main(Launcher.java:13)
+[Jul 24, 2024 13:38:42] com.quantum.core.io.RessourceLoader loadRessource
+ 	SEVERE:Error reading file [/com/res/shaders/MainVertex.glsl]
+		Exception: java.nio.file.NoSuchFileException: /com/res/shaders/MainVertex.glsl
+			java.base/sun.nio.fs.UnixException.translateToIOException(UnixException.java:92)
+			java.base/sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:106)
+			java.base/sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:111)
+			java.base/sun.nio.fs.UnixFileSystemProvider.newByteChannel(UnixFileSystemProvider.java:261)
+			java.base/java.nio.file.Files.newByteChannel(Files.java:379)
+			java.base/java.nio.file.Files.newByteChannel(Files.java:431)
+			java.base/java.nio.file.Files.readAllBytes(Files.java:3268)
+			com.quantum.core.io.RessourceLoader.loadRessource(RessourceLoader.java:20)
+			com.quantum.core.graphics.Renderer.init(Renderer.java:42)
+			com.quantum.launcher.MyGame.init(MyGame.java:24)
+			com.quantum.core.GameEngine.init(GameEngine.java:103)
+			com.quantum.core.GameEngine.run(GameEngine.java:41)
+			com.quantum.launcher.Launcher.main(Launcher.java:13)

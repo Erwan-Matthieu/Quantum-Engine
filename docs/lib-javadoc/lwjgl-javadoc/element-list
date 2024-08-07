@@ -1,0 +1,8 @@
+org.lwjgl.system
+org.lwjgl.system.jni
+org.lwjgl.system.libc
+org.lwjgl.system.libffi
+org.lwjgl.system.linux
+org.lwjgl.system.linux.liburing
+org.lwjgl.system.macosx
+org.lwjgl.system.windows

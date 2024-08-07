@@ -1,0 +1,26 @@
+[Jul 31, 2024 20:11:47] com.quantum.utils.logging.Cleanup run
+ 	INFO:Open logs directory
+[Jul 31, 2024 20:11:47] com.quantum.utils.logging.Cleanup run
+ 	INFO:There are 12 log files.
+[Jul 31, 2024 20:11:47] com.quantum.utils.logging.Cleanup getCutOffDate
+ 	INFO:Retention days set to 30 days
+[Jul 31, 2024 20:11:47] com.quantum.utils.logging.Cleanup run
+ 	SEVERE:An execption occured
+		Exception: java.text.ParseException: Unparseable date: "HI-2024-07-30.log"
+			java.base/java.text.DateFormat.parse(DateFormat.java:399)
+			com.quantum.utils.logging.Cleanup.extract(Cleanup.java:143)
+			com.quantum.utils.logging.Cleanup.run(Cleanup.java:91)
+[Jul 31, 2024 20:11:47] com.quantum.utils.logging.Cleanup run
+ 	SEVERE:An execption occured
+		Exception: java.text.ParseException: Unparseable date: "HI-2024-07-31.log"
+			java.base/java.text.DateFormat.parse(DateFormat.java:399)
+			com.quantum.utils.logging.Cleanup.extract(Cleanup.java:143)
+			com.quantum.utils.logging.Cleanup.run(Cleanup.java:91)
+[Jul 31, 2024 20:11:47] com.quantum.utils.logging.Cleanup run
+ 	INFO:Number of log files deleted successfully: 0 file
+[Jul 31, 2024 20:11:48] com.quantum.core.io.Window create
+ 	INFO:OpenGL capabilities created successfully.
+[Jul 31, 2024 20:11:48] com.quantum.system.GPUMonitor log
+ 	INFO:Vendor: Intel
+[Jul 31, 2024 20:11:48] com.quantum.system.GPUMonitor log
+ 	INFO:RENDERER: Mesa Intel(R) UHD Graphics (CML GT2)

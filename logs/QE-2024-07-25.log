@@ -1,0 +1,224 @@
+[Jul 25, 2024 09:59:58] com.quantum.utils.logging.Cleanup run
+ 	INFO:Open logs directory
+[Jul 25, 2024 09:59:58] com.quantum.utils.logging.Cleanup run
+ 	INFO:There are 5 log files.
+[Jul 25, 2024 09:59:58] com.quantum.utils.logging.Cleanup getCutOffDate
+ 	INFO:Retention days set to 30 days
+[Jul 25, 2024 09:59:58] com.quantum.utils.logging.Cleanup run
+ 	INFO:Number of log files deleted successfully: 0 file
+[Jul 25, 2024 12:00:24] com.quantum.utils.logging.Cleanup run
+ 	INFO:Open logs directory
+[Jul 25, 2024 12:00:24] com.quantum.utils.logging.Cleanup run
+ 	INFO:There are 5 log files.
+[Jul 25, 2024 12:00:24] com.quantum.utils.logging.Cleanup getCutOffDate
+ 	INFO:Retention days set to 30 days
+[Jul 25, 2024 12:00:24] com.quantum.utils.logging.Cleanup run
+ 	INFO:Number of log files deleted successfully: 0 file
+[Jul 25, 2024 12:01:01] com.quantum.utils.logging.Cleanup run
+ 	INFO:Open logs directory
+[Jul 25, 2024 12:01:01] com.quantum.utils.logging.Cleanup run
+ 	INFO:There are 5 log files.
+[Jul 25, 2024 12:01:01] com.quantum.utils.logging.Cleanup getCutOffDate
+ 	INFO:Retention days set to 30 days
+[Jul 25, 2024 12:01:01] com.quantum.utils.logging.Cleanup run
+ 	INFO:Number of log files deleted successfully: 0 file
+[Jul 25, 2024 12:02:38] com.quantum.utils.logging.Cleanup run
+ 	INFO:Open logs directory
+[Jul 25, 2024 12:02:38] com.quantum.utils.logging.Cleanup run
+ 	INFO:There are 5 log files.
+[Jul 25, 2024 12:02:38] com.quantum.utils.logging.Cleanup getCutOffDate
+ 	INFO:Retention days set to 30 days
+[Jul 25, 2024 12:02:38] com.quantum.utils.logging.Cleanup run
+ 	INFO:Number of log files deleted successfully: 0 file
+[Jul 25, 2024 12:03:06] com.quantum.utils.logging.Cleanup run
+ 	INFO:Open logs directory
+[Jul 25, 2024 12:03:06] com.quantum.utils.logging.Cleanup run
+ 	INFO:There are 5 log files.
+[Jul 25, 2024 12:03:06] com.quantum.utils.logging.Cleanup getCutOffDate
+ 	INFO:Retention days set to 30 days
+[Jul 25, 2024 12:03:06] com.quantum.utils.logging.Cleanup run
+ 	INFO:Number of log files deleted successfully: 0 file
+[Jul 25, 2024 12:04:04] com.quantum.utils.logging.Cleanup run
+ 	INFO:Open logs directory
+[Jul 25, 2024 12:04:04] com.quantum.utils.logging.Cleanup run
+ 	INFO:There are 5 log files.
+[Jul 25, 2024 12:04:04] com.quantum.utils.logging.Cleanup getCutOffDate
+ 	INFO:Retention days set to 30 days
+[Jul 25, 2024 12:04:04] com.quantum.utils.logging.Cleanup run
+ 	INFO:Number of log files deleted successfully: 0 file
+[Jul 25, 2024 12:43:14] com.quantum.utils.logging.Cleanup run
+ 	INFO:Open logs directory
+[Jul 25, 2024 12:43:14] com.quantum.utils.logging.Cleanup run
+ 	INFO:There are 5 log files.
+[Jul 25, 2024 12:43:14] com.quantum.utils.logging.Cleanup getCutOffDate
+ 	INFO:Retention days set to 30 days
+[Jul 25, 2024 12:43:14] com.quantum.utils.logging.Cleanup run
+ 	INFO:Number of log files deleted successfully: 0 file
+[Jul 25, 2024 12:45:29] com.quantum.utils.logging.Cleanup run
+ 	INFO:Open logs directory
+[Jul 25, 2024 12:45:29] com.quantum.utils.logging.Cleanup run
+ 	INFO:There are 5 log files.
+[Jul 25, 2024 12:45:29] com.quantum.utils.logging.Cleanup getCutOffDate
+ 	INFO:Retention days set to 30 days
+[Jul 25, 2024 12:45:29] com.quantum.utils.logging.Cleanup run
+ 	INFO:Number of log files deleted successfully: 0 file
+[Jul 25, 2024 12:51:32] com.quantum.utils.logging.Cleanup run
+ 	INFO:Open logs directory
+[Jul 25, 2024 12:51:32] com.quantum.utils.logging.Cleanup run
+ 	INFO:There are 5 log files.
+[Jul 25, 2024 12:51:32] com.quantum.utils.logging.Cleanup getCutOffDate
+ 	INFO:Retention days set to 30 days
+[Jul 25, 2024 12:51:32] com.quantum.utils.logging.Cleanup run
+ 	INFO:Number of log files deleted successfully: 0 file
+[Jul 25, 2024 12:52:09] com.quantum.utils.logging.Cleanup run
+ 	INFO:Open logs directory
+[Jul 25, 2024 12:52:09] com.quantum.utils.logging.Cleanup run
+ 	INFO:There are 5 log files.
+[Jul 25, 2024 12:52:09] com.quantum.utils.logging.Cleanup getCutOffDate
+ 	INFO:Retention days set to 30 days
+[Jul 25, 2024 12:52:09] com.quantum.utils.logging.Cleanup run
+ 	INFO:Number of log files deleted successfully: 0 file
+[Jul 25, 2024 12:52:57] com.quantum.utils.logging.Cleanup run
+ 	INFO:Open logs directory
+[Jul 25, 2024 12:52:57] com.quantum.utils.logging.Cleanup run
+ 	INFO:There are 5 log files.
+[Jul 25, 2024 12:52:57] com.quantum.utils.logging.Cleanup getCutOffDate
+ 	INFO:Retention days set to 30 days
+[Jul 25, 2024 12:52:57] com.quantum.utils.logging.Cleanup run
+ 	INFO:Number of log files deleted successfully: 0 file
+[Jul 25, 2024 12:53:17] com.quantum.utils.logging.Cleanup run
+ 	INFO:Open logs directory
+[Jul 25, 2024 12:53:17] com.quantum.utils.logging.Cleanup run
+ 	INFO:There are 5 log files.
+[Jul 25, 2024 12:53:17] com.quantum.utils.logging.Cleanup getCutOffDate
+ 	INFO:Retention days set to 30 days
+[Jul 25, 2024 12:53:17] com.quantum.utils.logging.Cleanup run
+ 	INFO:Number of log files deleted successfully: 0 file
+[Jul 25, 2024 12:54:02] com.quantum.utils.logging.Cleanup run
+ 	INFO:Open logs directory
+[Jul 25, 2024 12:54:02] com.quantum.utils.logging.Cleanup run
+ 	INFO:There are 5 log files.
+[Jul 25, 2024 12:54:02] com.quantum.utils.logging.Cleanup getCutOffDate
+ 	INFO:Retention days set to 30 days
+[Jul 25, 2024 12:54:02] com.quantum.utils.logging.Cleanup run
+ 	INFO:Number of log files deleted successfully: 0 file
+[Jul 25, 2024 12:56:45] com.quantum.utils.logging.Cleanup run
+ 	INFO:Open logs directory
+[Jul 25, 2024 12:56:45] com.quantum.utils.logging.Cleanup run
+ 	INFO:There are 5 log files.
+[Jul 25, 2024 12:56:45] com.quantum.utils.logging.Cleanup getCutOffDate
+ 	INFO:Retention days set to 30 days
+[Jul 25, 2024 12:56:45] com.quantum.utils.logging.Cleanup run
+ 	INFO:Number of log files deleted successfully: 0 file
+[Jul 25, 2024 13:04:19] com.quantum.utils.logging.Cleanup run
+ 	INFO:Open logs directory
+[Jul 25, 2024 13:04:19] com.quantum.utils.logging.Cleanup run
+ 	INFO:There are 5 log files.
+[Jul 25, 2024 13:04:19] com.quantum.utils.logging.Cleanup getCutOffDate
+ 	INFO:Retention days set to 30 days
+[Jul 25, 2024 13:04:19] com.quantum.utils.logging.Cleanup run
+ 	INFO:Number of log files deleted successfully: 0 file
+[Jul 25, 2024 13:04:44] com.quantum.utils.logging.Cleanup run
+ 	INFO:Open logs directory
+[Jul 25, 2024 13:04:44] com.quantum.utils.logging.Cleanup run
+ 	INFO:There are 5 log files.
+[Jul 25, 2024 13:04:44] com.quantum.utils.logging.Cleanup getCutOffDate
+ 	INFO:Retention days set to 30 days
+[Jul 25, 2024 13:04:44] com.quantum.utils.logging.Cleanup run
+ 	INFO:Number of log files deleted successfully: 0 file
+[Jul 25, 2024 13:19:33] com.quantum.utils.logging.Cleanup run
+ 	INFO:Open logs directory
+[Jul 25, 2024 13:19:33] com.quantum.utils.logging.Cleanup run
+ 	INFO:There are 5 log files.
+[Jul 25, 2024 13:19:33] com.quantum.utils.logging.Cleanup getCutOffDate
+ 	INFO:Retention days set to 30 days
+[Jul 25, 2024 13:19:33] com.quantum.utils.logging.Cleanup run
+ 	INFO:Number of log files deleted successfully: 0 file
+[Jul 25, 2024 13:19:44] com.quantum.utils.logging.Cleanup run
+ 	INFO:Open logs directory
+[Jul 25, 2024 13:19:44] com.quantum.utils.logging.Cleanup run
+ 	INFO:There are 5 log files.
+[Jul 25, 2024 13:19:44] com.quantum.utils.logging.Cleanup getCutOffDate
+ 	INFO:Retention days set to 30 days
+[Jul 25, 2024 13:19:44] com.quantum.utils.logging.Cleanup run
+ 	INFO:Number of log files deleted successfully: 0 file
+[Jul 25, 2024 13:21:17] com.quantum.utils.logging.Cleanup run
+ 	INFO:Open logs directory
+[Jul 25, 2024 13:21:17] com.quantum.utils.logging.Cleanup run
+ 	INFO:There are 5 log files.
+[Jul 25, 2024 13:21:17] com.quantum.utils.logging.Cleanup getCutOffDate
+ 	INFO:Retention days set to 30 days
+[Jul 25, 2024 13:21:17] com.quantum.utils.logging.Cleanup run
+ 	INFO:Number of log files deleted successfully: 0 file
+[Jul 25, 2024 13:24:18] com.quantum.utils.logging.Cleanup run
+ 	INFO:Open logs directory
+[Jul 25, 2024 13:24:18] com.quantum.utils.logging.Cleanup run
+ 	INFO:There are 5 log files.
+[Jul 25, 2024 13:24:18] com.quantum.utils.logging.Cleanup getCutOffDate
+ 	INFO:Retention days set to 30 days
+[Jul 25, 2024 13:24:18] com.quantum.utils.logging.Cleanup run
+ 	INFO:Number of log files deleted successfully: 0 file
+[Jul 25, 2024 13:25:15] com.quantum.utils.logging.Cleanup run
+ 	INFO:Open logs directory
+[Jul 25, 2024 13:25:15] com.quantum.utils.logging.Cleanup run
+ 	INFO:There are 5 log files.
+[Jul 25, 2024 13:25:15] com.quantum.utils.logging.Cleanup getCutOffDate
+ 	INFO:Retention days set to 30 days
+[Jul 25, 2024 13:25:15] com.quantum.utils.logging.Cleanup run
+ 	INFO:Number of log files deleted successfully: 0 file
+[Jul 25, 2024 13:26:23] com.quantum.utils.logging.Cleanup run
+ 	INFO:Open logs directory
+[Jul 25, 2024 13:26:23] com.quantum.utils.logging.Cleanup run
+ 	INFO:There are 5 log files.
+[Jul 25, 2024 13:26:23] com.quantum.utils.logging.Cleanup getCutOffDate
+ 	INFO:Retention days set to 30 days
+[Jul 25, 2024 13:26:23] com.quantum.utils.logging.Cleanup run
+ 	INFO:Number of log files deleted successfully: 0 file
+[Jul 25, 2024 13:26:54] com.quantum.utils.logging.Cleanup run
+ 	INFO:Open logs directory
+[Jul 25, 2024 13:26:54] com.quantum.utils.logging.Cleanup run
+ 	INFO:There are 5 log files.
+[Jul 25, 2024 13:26:54] com.quantum.utils.logging.Cleanup getCutOffDate
+ 	INFO:Retention days set to 30 days
+[Jul 25, 2024 13:26:54] com.quantum.utils.logging.Cleanup run
+ 	INFO:Number of log files deleted successfully: 0 file
+[Jul 25, 2024 13:27:31] com.quantum.utils.logging.Cleanup run
+ 	INFO:Open logs directory
+[Jul 25, 2024 13:27:31] com.quantum.utils.logging.Cleanup run
+ 	INFO:There are 5 log files.
+[Jul 25, 2024 13:27:31] com.quantum.utils.logging.Cleanup getCutOffDate
+ 	INFO:Retention days set to 30 days
+[Jul 25, 2024 13:27:31] com.quantum.utils.logging.Cleanup run
+ 	INFO:Number of log files deleted successfully: 0 file
+[Jul 25, 2024 13:28:26] com.quantum.utils.logging.Cleanup run
+ 	INFO:Open logs directory
+[Jul 25, 2024 13:28:26] com.quantum.utils.logging.Cleanup run
+ 	INFO:There are 5 log files.
+[Jul 25, 2024 13:28:26] com.quantum.utils.logging.Cleanup getCutOffDate
+ 	INFO:Retention days set to 30 days
+[Jul 25, 2024 13:28:26] com.quantum.utils.logging.Cleanup run
+ 	INFO:Number of log files deleted successfully: 0 file
+[Jul 25, 2024 13:28:48] com.quantum.utils.logging.Cleanup run
+ 	INFO:Open logs directory
+[Jul 25, 2024 13:28:48] com.quantum.utils.logging.Cleanup run
+ 	INFO:There are 5 log files.
+[Jul 25, 2024 13:28:48] com.quantum.utils.logging.Cleanup getCutOffDate
+ 	INFO:Retention days set to 30 days
+[Jul 25, 2024 13:28:48] com.quantum.utils.logging.Cleanup run
+ 	INFO:Number of log files deleted successfully: 0 file
+[Jul 25, 2024 13:29:27] com.quantum.utils.logging.Cleanup run
+ 	INFO:Open logs directory
+[Jul 25, 2024 13:29:27] com.quantum.utils.logging.Cleanup run
+ 	INFO:There are 5 log files.
+[Jul 25, 2024 13:29:27] com.quantum.utils.logging.Cleanup getCutOffDate
+ 	INFO:Retention days set to 30 days
+[Jul 25, 2024 13:29:27] com.quantum.utils.logging.Cleanup run
+ 	INFO:Number of log files deleted successfully: 0 file
+[Jul 25, 2024 13:30:20] com.quantum.utils.logging.Cleanup run
+ 	INFO:Open logs directory
+[Jul 25, 2024 13:30:20] com.quantum.utils.logging.Cleanup run
+ 	INFO:There are 5 log files.
+[Jul 25, 2024 13:30:20] com.quantum.utils.logging.Cleanup getCutOffDate
+ 	INFO:Retention days set to 30 days
+[Jul 25, 2024 13:30:20] com.quantum.utils.logging.Cleanup run
+ 	INFO:Number of log files deleted successfully: 0 file

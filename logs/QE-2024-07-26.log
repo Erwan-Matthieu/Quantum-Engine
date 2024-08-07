@@ -1,0 +1,261 @@
+[Jul 26, 2024 09:52:33] com.quantum.utils.logging.Cleanup run
+ 	INFO:Open logs directory
+[Jul 26, 2024 09:52:33] com.quantum.utils.logging.Cleanup run
+ 	INFO:There are 6 log files.
+[Jul 26, 2024 09:52:33] com.quantum.utils.logging.Cleanup getCutOffDate
+ 	INFO:Retention days set to 30 days
+[Jul 26, 2024 09:52:33] com.quantum.utils.logging.Cleanup run
+ 	INFO:Number of log files deleted successfully: 0 file
+[Jul 26, 2024 09:52:34] com.quantum.core.graphics.Shader createShader
+ 	SEVERE:An exception occurred
+		Exception: java.lang.Exception: Error compiling Shader code: 0:140(39): error: syntax error, unexpected ';', expecting ')'
+
+			com.quantum.core.graphics.Shader.createShader(Shader.java:213)
+			com.quantum.core.graphics.Shader.createFragmentShader(Shader.java:197)
+			com.quantum.core.graphics.Renderer.init(Renderer.java:44)
+			com.quantum.launcher.MyGame.init(MyGame.java:59)
+			com.quantum.core.GameEngine.init(GameEngine.java:115)
+			com.quantum.core.GameEngine.run(GameEngine.java:45)
+			java.base/java.lang.Thread.run(Thread.java:1583)
+[Jul 26, 2024 10:14:11] com.quantum.utils.config.ConfigurationProperties <clinit>
+ 	SEVERE:An exception occured
+		Exception: java.io.FileNotFoundException: /com/res/config/configuration.properties (Aucun fichier ou dossier de ce nom)
+			java.base/java.io.FileInputStream.open0(Native Method)
+			java.base/java.io.FileInputStream.open(FileInputStream.java:213)
+			java.base/java.io.FileInputStream.<init>(FileInputStream.java:152)
+			java.base/java.io.FileInputStream.<init>(FileInputStream.java:106)
+			com.quantum.utils.config.ConfigurationProperties.<clinit>(ConfigurationProperties.java:20)
+[Jul 26, 2024 10:14:11] com.quantum.utils.config.ConfigurationProperties saveConfiguration
+ 	SEVERE:An exception occurred
+		Exception: java.io.FileNotFoundException: /com/res/config/configuration.properties (Aucun fichier ou dossier de ce nom)
+			java.base/java.io.FileOutputStream.open0(Native Method)
+			java.base/java.io.FileOutputStream.open(FileOutputStream.java:289)
+			java.base/java.io.FileOutputStream.<init>(FileOutputStream.java:230)
+			java.base/java.io.FileOutputStream.<init>(FileOutputStream.java:118)
+			com.quantum.utils.config.ConfigurationProperties.saveConfiguration(ConfigurationProperties.java:36)
+			com.quantum.utils.config.ConfigurationProperties.setPropertyAndSave(ConfigurationProperties.java:46)
+			com.quantum.utils.config.ConfigurationProperties.main(ConfigurationProperties.java:50)
+[Jul 26, 2024 10:22:09] com.quantum.utils.config.ConfigurationProperties saveConfiguration
+ 	INFO:Successfully stored configuration modification
+[Jul 26, 2024 10:29:09] com.quantum.utils.config.ConfigurationProperties saveConfiguration
+ 	INFO:Successfully stored configuration modification
+[Jul 26, 2024 10:29:39] com.quantum.utils.config.ConfigurationProperties saveConfiguration
+ 	INFO:Successfully stored configuration modification
+[Jul 26, 2024 10:29:39] com.quantum.utils.config.ConfigurationProperties saveConfiguration
+ 	INFO:Successfully stored configuration modification
+[Jul 26, 2024 10:30:09] com.quantum.utils.config.ConfigurationProperties saveConfiguration
+ 	INFO:Successfully stored configuration modification
+[Jul 26, 2024 10:30:23] com.quantum.utils.config.ConfigurationProperties saveConfiguration
+ 	INFO:Successfully stored configuration modification
+[Jul 26, 2024 10:45:32] com.quantum.utils.logging.Cleanup run
+ 	INFO:Open logs directory
+[Jul 26, 2024 10:45:32] com.quantum.utils.logging.Cleanup run
+ 	INFO:There are 6 log files.
+[Jul 26, 2024 10:45:32] com.quantum.utils.logging.Cleanup getCutOffDate
+ 	INFO:Retention days set to 15 days
+[Jul 26, 2024 10:45:32] com.quantum.utils.logging.Cleanup run
+ 	INFO:Number of log files deleted successfully: 0 file
+[Jul 26, 2024 11:15:53] com.quantum.utils.config.LanguageBundle <init>
+ 	SEVERE:An exception occurred
+		Exception: java.util.MissingResourceException: Can't find bundle for base name /com/res/lang/message, locale en_US
+			java.base/java.util.ResourceBundle.throwMissingResourceException(ResourceBundle.java:2059)
+			java.base/java.util.ResourceBundle.getBundleImpl(ResourceBundle.java:1697)
+			java.base/java.util.ResourceBundle.getBundleImpl(ResourceBundle.java:1600)
+			java.base/java.util.ResourceBundle.getBundleImpl(ResourceBundle.java:1555)
+			java.base/java.util.ResourceBundle.getBundle(ResourceBundle.java:1066)
+			com.quantum.utils.config.LanguageBundle.<init>(LanguageBundle.java:23)
+			com.quantum.utils.config.LanguageBundle.main(LanguageBundle.java:57)
+[Jul 26, 2024 11:16:56] com.quantum.utils.config.LanguageBundle <init>
+ 	SEVERE:An exception occurred
+		Exception: java.util.MissingResourceException: Can't find bundle for base name /com/res/lang/message, locale en_US
+			java.base/java.util.ResourceBundle.throwMissingResourceException(ResourceBundle.java:2059)
+			java.base/java.util.ResourceBundle.getBundleImpl(ResourceBundle.java:1697)
+			java.base/java.util.ResourceBundle.getBundleImpl(ResourceBundle.java:1600)
+			java.base/java.util.ResourceBundle.getBundleImpl(ResourceBundle.java:1555)
+			java.base/java.util.ResourceBundle.getBundle(ResourceBundle.java:1066)
+			com.quantum.utils.config.LanguageBundle.<init>(LanguageBundle.java:23)
+			com.quantum.utils.config.LanguageBundle.main(LanguageBundle.java:56)
+[Jul 26, 2024 11:38:57] com.quantum.utils.logging.Cleanup run
+ 	INFO:Open logs directory
+[Jul 26, 2024 11:38:57] com.quantum.utils.logging.Cleanup run
+ 	INFO:There are 6 log files.
+[Jul 26, 2024 11:38:57] com.quantum.utils.logging.Cleanup getCutOffDate
+ 	INFO:Retention days set to 30 days
+[Jul 26, 2024 11:38:57] com.quantum.utils.logging.Cleanup run
+ 	INFO:Number of log files deleted successfully: 0 file
+[Jul 26, 2024 11:43:06] com.quantum.utils.logging.Cleanup run
+ 	INFO:Open logs directory
+[Jul 26, 2024 11:43:06] com.quantum.utils.logging.Cleanup run
+ 	INFO:There are 6 log files.
+[Jul 26, 2024 11:43:06] com.quantum.utils.logging.Cleanup getCutOffDate
+ 	INFO:Retention days set to 30 days
+[Jul 26, 2024 11:43:06] com.quantum.utils.logging.Cleanup run
+ 	INFO:Number of log files deleted successfully: 0 file
+[Jul 26, 2024 11:46:07] com.quantum.utils.logging.Cleanup run
+ 	INFO:Open logs directory
+[Jul 26, 2024 11:46:07] com.quantum.utils.logging.Cleanup run
+ 	INFO:There are 6 log files.
+[Jul 26, 2024 11:46:07] com.quantum.utils.logging.Cleanup getCutOffDate
+ 	INFO:Retention days set to 30 days
+[Jul 26, 2024 11:46:07] com.quantum.utils.logging.Cleanup run
+ 	INFO:Number of log files deleted successfully: 0 file
+[Jul 26, 2024 11:48:36] com.quantum.utils.logging.Cleanup run
+ 	INFO:Open logs directory
+[Jul 26, 2024 11:48:36] com.quantum.utils.logging.Cleanup run
+ 	INFO:There are 6 log files.
+[Jul 26, 2024 11:48:36] com.quantum.utils.logging.Cleanup getCutOffDate
+ 	INFO:Retention days set to 30 days
+[Jul 26, 2024 11:48:36] com.quantum.utils.logging.Cleanup run
+ 	INFO:Number of log files deleted successfully: 0 file
+[Jul 26, 2024 11:48:37] com.quantum.core.io.Window create
+ 	INFO:OpenGL capabilities created successfully.
+[Jul 26, 2024 12:06:06] com.quantum.utils.logging.Cleanup run
+ 	INFO:Open logs directory
+[Jul 26, 2024 12:06:06] com.quantum.utils.logging.Cleanup run
+ 	INFO:There are 6 log files.
+[Jul 26, 2024 12:06:06] com.quantum.utils.logging.Cleanup getCutOffDate
+ 	INFO:Retention days set to 30 days
+[Jul 26, 2024 12:06:06] com.quantum.utils.logging.Cleanup run
+ 	INFO:Number of log files deleted successfully: 0 file
+[Jul 26, 2024 12:06:06] com.quantum.core.io.Window create
+ 	INFO:OpenGL capabilities created successfully.
+[Jul 26, 2024 12:07:50] com.quantum.utils.logging.Cleanup run
+ 	INFO:Open logs directory
+[Jul 26, 2024 12:07:50] com.quantum.utils.logging.Cleanup run
+ 	INFO:There are 6 log files.
+[Jul 26, 2024 12:07:50] com.quantum.utils.logging.Cleanup getCutOffDate
+ 	INFO:Retention days set to 30 days
+[Jul 26, 2024 12:07:50] com.quantum.utils.logging.Cleanup run
+ 	INFO:Number of log files deleted successfully: 0 file
+[Jul 26, 2024 12:07:50] com.quantum.core.io.Window create
+ 	INFO:OpenGL capabilities created successfully.
+[Jul 26, 2024 12:11:21] com.quantum.utils.logging.Cleanup run
+ 	INFO:Open logs directory
+[Jul 26, 2024 12:11:21] com.quantum.utils.logging.Cleanup run
+ 	INFO:There are 6 log files.
+[Jul 26, 2024 12:11:21] com.quantum.utils.logging.Cleanup getCutOffDate
+ 	INFO:Retention days set to 30 days
+[Jul 26, 2024 12:11:21] com.quantum.utils.logging.Cleanup run
+ 	INFO:Number of log files deleted successfully: 0 file
+[Jul 26, 2024 12:11:22] com.quantum.core.io.Window create
+ 	INFO:OpenGL capabilities created successfully.
+[Jul 26, 2024 12:13:45] com.quantum.utils.logging.Cleanup run
+ 	INFO:Open logs directory
+[Jul 26, 2024 12:13:45] com.quantum.utils.logging.Cleanup run
+ 	INFO:There are 6 log files.
+[Jul 26, 2024 12:13:45] com.quantum.utils.logging.Cleanup getCutOffDate
+ 	INFO:Retention days set to 30 days
+[Jul 26, 2024 12:13:45] com.quantum.utils.logging.Cleanup run
+ 	INFO:Number of log files deleted successfully: 0 file
+[Jul 26, 2024 12:13:46] com.quantum.core.io.Window create
+ 	INFO:OpenGL capabilities created successfully.
+[Jul 26, 2024 12:14:59] com.quantum.utils.logging.Cleanup run
+ 	INFO:Open logs directory
+[Jul 26, 2024 12:14:59] com.quantum.utils.logging.Cleanup run
+ 	INFO:There are 6 log files.
+[Jul 26, 2024 12:14:59] com.quantum.utils.logging.Cleanup getCutOffDate
+ 	INFO:Retention days set to 30 days
+[Jul 26, 2024 12:14:59] com.quantum.utils.logging.Cleanup run
+ 	INFO:Number of log files deleted successfully: 0 file
+[Jul 26, 2024 12:15:00] com.quantum.core.io.Window create
+ 	INFO:OpenGL capabilities created successfully.
+[Jul 26, 2024 12:17:13] com.quantum.utils.logging.Cleanup run
+ 	INFO:Open logs directory
+[Jul 26, 2024 12:17:13] com.quantum.utils.logging.Cleanup run
+ 	INFO:There are 6 log files.
+[Jul 26, 2024 12:17:13] com.quantum.utils.logging.Cleanup getCutOffDate
+ 	INFO:Retention days set to 30 days
+[Jul 26, 2024 12:17:13] com.quantum.utils.logging.Cleanup run
+ 	INFO:Number of log files deleted successfully: 0 file
+[Jul 26, 2024 12:17:14] com.quantum.core.io.Window create
+ 	INFO:OpenGL capabilities created successfully.
+[Jul 26, 2024 12:17:35] com.quantum.utils.logging.Cleanup run
+ 	INFO:Open logs directory
+[Jul 26, 2024 12:17:35] com.quantum.utils.logging.Cleanup run
+ 	INFO:There are 6 log files.
+[Jul 26, 2024 12:17:35] com.quantum.utils.logging.Cleanup getCutOffDate
+ 	INFO:Retention days set to 30 days
+[Jul 26, 2024 12:17:35] com.quantum.utils.logging.Cleanup run
+ 	INFO:Number of log files deleted successfully: 0 file
+[Jul 26, 2024 12:17:36] com.quantum.core.io.Window create
+ 	INFO:OpenGL capabilities created successfully.
+[Jul 26, 2024 12:17:49] com.quantum.utils.logging.Cleanup run
+ 	INFO:Open logs directory
+[Jul 26, 2024 12:17:50] com.quantum.utils.logging.Cleanup run
+ 	INFO:There are 6 log files.
+[Jul 26, 2024 12:17:50] com.quantum.utils.logging.Cleanup getCutOffDate
+ 	INFO:Retention days set to 30 days
+[Jul 26, 2024 12:17:50] com.quantum.utils.logging.Cleanup run
+ 	INFO:Number of log files deleted successfully: 0 file
+[Jul 26, 2024 12:17:50] com.quantum.core.io.Window create
+ 	INFO:OpenGL capabilities created successfully.
+[Jul 26, 2024 12:24:40] com.quantum.utils.logging.Cleanup run
+ 	INFO:Open logs directory
+[Jul 26, 2024 12:24:40] com.quantum.utils.logging.Cleanup run
+ 	INFO:There are 6 log files.
+[Jul 26, 2024 12:24:40] com.quantum.utils.logging.Cleanup getCutOffDate
+ 	INFO:Retention days set to 30 days
+[Jul 26, 2024 12:24:40] com.quantum.utils.logging.Cleanup run
+ 	INFO:Number of log files deleted successfully: 0 file
+[Jul 26, 2024 12:24:40] com.quantum.core.io.Window create
+ 	INFO:OpenGL capabilities created successfully.
+[Jul 26, 2024 12:35:02] com.quantum.utils.logging.Cleanup run
+ 	INFO:Open logs directory
+[Jul 26, 2024 12:35:02] com.quantum.utils.logging.Cleanup run
+ 	INFO:There are 6 log files.
+[Jul 26, 2024 12:35:02] com.quantum.utils.logging.Cleanup getCutOffDate
+ 	INFO:Retention days set to 30 days
+[Jul 26, 2024 12:35:02] com.quantum.utils.logging.Cleanup run
+ 	INFO:Number of log files deleted successfully: 0 file
+[Jul 26, 2024 12:35:02] com.quantum.core.io.Window create
+ 	INFO:OpenGL capabilities created successfully.
+[Jul 26, 2024 16:42:01] com.quantum.utils.logging.Cleanup run
+ 	INFO:Open logs directory
+[Jul 26, 2024 16:42:01] com.quantum.utils.logging.Cleanup run
+ 	INFO:There are 6 log files.
+[Jul 26, 2024 16:42:01] com.quantum.utils.logging.Cleanup getCutOffDate
+ 	INFO:Retention days set to 30 days
+[Jul 26, 2024 16:42:01] com.quantum.utils.logging.Cleanup run
+ 	INFO:Number of log files deleted successfully: 0 file
+[Jul 26, 2024 16:42:02] com.quantum.core.io.Window create
+ 	INFO:OpenGL capabilities created successfully.
+[Jul 26, 2024 16:42:02] com.quantum.core.GameEngine gameLoop
+ 	SEVERE:An exception occurred
+		Exception: java.lang.UnsupportedOperationException: Unimplemented method 'isMouseOver'
+			com.quantum.ui.QEButton.isMouseOver(QEButton.java:90)
+			com.quantum.ui.QEButton.render(QEButton.java:57)
+			com.quantum.launcher.MyGame.render(MyGame.java:173)
+			com.quantum.core.GameEngine.render(GameEngine.java:70)
+			com.quantum.core.GameEngine.gameLoop(GameEngine.java:93)
+			com.quantum.core.GameEngine.run(GameEngine.java:52)
+			java.base/java.lang.Thread.run(Thread.java:1583)
+[Jul 26, 2024 16:42:19] com.quantum.utils.logging.Cleanup run
+ 	INFO:Open logs directory
+[Jul 26, 2024 16:42:19] com.quantum.utils.logging.Cleanup run
+ 	INFO:There are 6 log files.
+[Jul 26, 2024 16:42:19] com.quantum.utils.logging.Cleanup getCutOffDate
+ 	INFO:Retention days set to 30 days
+[Jul 26, 2024 16:42:19] com.quantum.utils.logging.Cleanup run
+ 	INFO:Number of log files deleted successfully: 0 file
+[Jul 26, 2024 16:42:20] com.quantum.core.io.Window create
+ 	INFO:OpenGL capabilities created successfully.
+[Jul 26, 2024 16:50:11] com.quantum.utils.logging.Cleanup run
+ 	INFO:Open logs directory
+[Jul 26, 2024 16:50:11] com.quantum.utils.logging.Cleanup run
+ 	INFO:There are 6 log files.
+[Jul 26, 2024 16:50:11] com.quantum.utils.logging.Cleanup getCutOffDate
+ 	INFO:Retention days set to 30 days
+[Jul 26, 2024 16:50:11] com.quantum.utils.logging.Cleanup run
+ 	INFO:Number of log files deleted successfully: 0 file
+[Jul 26, 2024 16:50:12] com.quantum.core.io.Window create
+ 	INFO:OpenGL capabilities created successfully.
+[Jul 26, 2024 16:52:19] com.quantum.utils.logging.Cleanup run
+ 	INFO:Open logs directory
+[Jul 26, 2024 16:52:19] com.quantum.utils.logging.Cleanup run
+ 	INFO:There are 6 log files.
+[Jul 26, 2024 16:52:19] com.quantum.utils.logging.Cleanup getCutOffDate
+ 	INFO:Retention days set to 30 days
+[Jul 26, 2024 16:52:19] com.quantum.utils.logging.Cleanup run
+ 	INFO:Number of log files deleted successfully: 0 file
+[Jul 26, 2024 16:52:20] com.quantum.core.io.Window create
+ 	INFO:OpenGL capabilities created successfully.
