@@ -1,8 +1,0 @@
-[Jul 21, 2024 16:04:08] com.quantum.utils.logging.Cleanup run
- 	INFO:Open logs directory
-[Jul 21, 2024 16:04:08] com.quantum.utils.logging.Cleanup run
- 	INFO:There are 2 log files.
-[Jul 21, 2024 16:04:08] com.quantum.utils.logging.Cleanup getCutOffDate
- 	INFO:Retention days set to 30 days
-[Jul 21, 2024 16:04:08] com.quantum.utils.logging.Cleanup run
- 	INFO:Number of log files deleted successfully: 1 file
